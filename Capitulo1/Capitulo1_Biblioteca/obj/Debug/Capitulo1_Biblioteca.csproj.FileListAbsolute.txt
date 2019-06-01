@@ -1,6 +1,0 @@
-C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1_Biblioteca\bin\Debug\Capitulo1_Biblioteca.dll
-C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1_Biblioteca\bin\Debug\Capitulo1_Biblioteca.pdb
-C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1_Biblioteca\obj\Debug\Capitulo1_Biblioteca.csprojAssemblyReference.cache
-C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1_Biblioteca\obj\Debug\Capitulo1_Biblioteca.csproj.CoreCompileInputs.cache
-C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1_Biblioteca\obj\Debug\Capitulo1_Biblioteca.dll
-C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1_Biblioteca\obj\Debug\Capitulo1_Biblioteca.pdb
