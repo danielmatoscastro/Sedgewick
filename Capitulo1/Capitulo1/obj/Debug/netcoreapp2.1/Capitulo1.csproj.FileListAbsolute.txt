@@ -1,0 +1,11 @@
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\bin\Debug\netcoreapp2.1\Capitulo1.deps.json
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\bin\Debug\netcoreapp2.1\Capitulo1.runtimeconfig.json
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\bin\Debug\netcoreapp2.1\Capitulo1.runtimeconfig.dev.json
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\bin\Debug\netcoreapp2.1\Capitulo1.dll
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\bin\Debug\netcoreapp2.1\Capitulo1.pdb
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\obj\Debug\netcoreapp2.1\Capitulo1.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\obj\Debug\netcoreapp2.1\Capitulo1.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\obj\Debug\netcoreapp2.1\Capitulo1.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\obj\Debug\netcoreapp2.1\Capitulo1.AssemblyInfo.cs
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\obj\Debug\netcoreapp2.1\Capitulo1.dll
+C:\Users\danie\Documents\Sedgewick\Capitulo1\Capitulo1\obj\Debug\netcoreapp2.1\Capitulo1.pdb

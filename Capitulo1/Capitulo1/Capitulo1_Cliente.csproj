@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <StartupObject>Capitulo1_Cliente.Exercicio1127_Cliente</StartupObject>
+    <RootNamespace>Capitulo1_Cliente</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Capitulo1_Biblioteca\Capitulo1_Biblioteca.csproj" />
+  </ItemGroup>
+
+</Project>
