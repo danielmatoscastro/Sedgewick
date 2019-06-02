@@ -5,6 +5,9 @@ using System.Text;
 
 namespace Capitulo1_Cliente
 {
+    /// <summary>
+    /// Classe de teste para o exercício 1.1.24
+    /// </summary>
     class Exercicio1124_Cliente
     {
         static void Main(string[] args)
