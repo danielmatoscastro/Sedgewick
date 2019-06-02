@@ -44,14 +44,18 @@
     <Compile Include="BuscaBinaria.cs" />
     <Compile Include="ConversorDecBin.cs" />
     <Compile Include="DistribuicaoBinomial.cs" />
+    <Compile Include="EscritorDeLista.cs" />
     <Compile Include="Fatorial.cs" />
     <Compile Include="Fibonacci.cs" />
+    <Compile Include="GeradorAleatorio.cs" />
     <Compile Include="Histograma.cs" />
     <Compile Include="ImpressorMatricial.cs" />
     <Compile Include="ImpressorVetorial.cs" />
+    <Compile Include="LeitorDeLista.cs" />
     <Compile Include="Logaritmo.cs" />
     <Compile Include="MaximoDivisorComum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Vetor.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
