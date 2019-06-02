@@ -33,6 +33,26 @@ namespace Capitulo1_Biblioteca
 
         /// <summary>
         /// Produz uma representação como string de um array.
+        /// </summary>
+        /// <typeparam name="T">Tipo dos elementos do array.</typeparam>
+        /// <param name="array">Array a ser representado como string.</param>
+        /// <param name="separador">Separador entre elementos.</param>
+        /// <returns>Representação como string do array informado.</returns>
+        public static string ImprimeArray<T>(T[] array, string separador)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            foreach (T elemento in array)
+            {
+                sb.Append(elemento.ToString());
+                sb.Append(separador);
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        /// <summary>
+        /// Produz uma representação como string de um array.
         /// Em cada linha da string retornada, consta um par na seguinte sintaxe:
         /// [indice do array]: [elemento do array]
         /// </summary>
