@@ -36,18 +36,15 @@ namespace Capitulo1_Biblioteca
                 {
                     return mid;
                 }
-                else
+                
+                if (arr[mid] < key)
                 {
-                    if (arr[mid] < key)
-                    {
-                        lo = mid + 1;
-                    }
-                    else
-                    {
-                        hi = mid - 1;
-                    }
+                    lo = mid + 1;
                 }
-
+                else
+                { 
+                    hi = mid - 1;
+                }
             }
 
             return -1;
@@ -139,7 +136,49 @@ namespace Capitulo1_Biblioteca
                     return RankRecursivo(key, arr, lo, mid = 1, profundidade + 1, sb);
                 }
             }
-        } 
+        }
 
+        /// <summary>
+        /// Conta quantos elementos do vetor ordenado arr são menores que key.
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <returns>Quantidade de elementos menores que key no vetor arr.</returns>
+        public static int RankMenores(int key, int[] arr)
+        {
+            return RankMenores(key, arr, 0, arr.Length);
+        }
+
+        /// <summary>
+        /// Busca pela posição que o elemento key deveria ocupar no array.
+        /// Baseado no algoritmo presente em https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/binarysearch.html
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <param name="lo">Menor índice do vetor.</param>
+        /// <param name="hiPlus1">Quantidade de elementos no vetor.</param>
+        /// <returns>Retorna a posição i do vetor arr tal que arr[i-1] < key <= arr[i].</returns>
+        private static int RankMenores(int key, int[] arr, int lo, int hiPlus1)
+        {
+            if (key <= arr[0])
+            {
+                return 0;
+            }
+            
+            if (lo == hiPlus1 - 1)
+            {
+                return hiPlus1;
+            }
+
+            int meio = (lo + hiPlus1) / 2;
+
+            if (arr[meio] < key)
+            {
+                return RankMenores(key, arr, meio, hiPlus1);
+            }
+
+            return RankMenores(key, arr, lo, meio);
+        }
+        
     }
 }
