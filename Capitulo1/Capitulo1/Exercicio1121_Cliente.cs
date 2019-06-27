@@ -19,7 +19,7 @@ namespace Capitulo1_Cliente
             for (int i = 0; i < numLinhas; i++)
             {
                 Console.WriteLine("Digite uma linha: ");
-                string[] entrada = Console.ReadLine().Trim().Split(' ', StringSplitOptions.RemoveEmptyEntries);
+                string[] entrada = Console.ReadLine().Trim().Split(new char[]{' '}, StringSplitOptions.RemoveEmptyEntries);
 
                 Tuple<string, int, int> linha = new Tuple<string, int, int>(entrada[0],
                                                         Convert.ToInt32(entrada[1]),

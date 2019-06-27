@@ -21,7 +21,7 @@ namespace Capitulo1_Cliente
             }
             catch (ArgumentOutOfRangeException ex)
             {
-                Console.WriteLine("O argumento deve ser positivo");
+                Console.WriteLine(ex.Message);
             }
             finally
             {

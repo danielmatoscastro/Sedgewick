@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>Capitulo1_Cliente.Exercicio1128_Cliente</StartupObject>
+    <TargetFramework>net461</TargetFramework>
+    <StartupObject>Capitulo1_Cliente.Exercicio112_Cliente</StartupObject>
     <RootNamespace>Capitulo1_Cliente</RootNamespace>
   </PropertyGroup>
 
