@@ -180,5 +180,63 @@ namespace Capitulo1_Biblioteca
             return RankMenores(key, arr, lo, meio);
         }
         
+        /// <summary>
+        /// Conta quantos elementos do vetor ordenado arr são maiores que key.
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <returns>Quantidade de elementos maiores que key no vetor arr.</returns>
+        public static int RankMaiores(int key, int[] arr)
+        {
+            return arr.Length - RankMaiores(key, arr, -1, arr.Length-1);
+        }
+        
+        /// <summary>
+        /// Busca pela posição que o elemento key deveria ocupar no array.
+        /// Baseado no algoritmo presente em https://www.ime.usp.br/~pf/analise_de_algoritmos/aulas/binarysearch.html
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <param name="lo">Menor índice do vetor.</param>
+        /// <param name="hiPlus1">Quantidade de elementos no vetor.</param>
+        /// <returns>Retorna a posição i do vetor arr tal que arr[i-1] <= key < arr[i].</returns>
+        private static int RankMaiores(int key, int[] arr, int loMinus1, int hi)
+        {
+            if (arr[hi] <= key)
+            {
+                return hi+1;
+            }
+
+            if (arr[loMinus1+1] > key)
+            {
+                return loMinus1 + 1;
+            }
+            
+            if (loMinus1+1 == hi)
+            {
+                return hi;
+            }
+            
+            int meio = (loMinus1 + hi) / 2;
+
+            if (arr[meio] > key)
+            {
+                return RankMaiores(key, arr, loMinus1, meio);
+            }
+
+            return RankMaiores(key, arr, meio, hi);
+        }
+
+        /// <summary>
+        /// Conta quantos elementos no vetor ordenado são iguais a key.
+        /// </summary>
+        /// <param name="key">Elementado a ser contado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <returns>Quantidade de elementos iguais a key.</returns>
+        public static int Count(int key, int[] arr)
+        {
+            return arr.Length - RankMaiores(key, arr) - RankMenores(key, arr);
+        }
+        
     }
 }
