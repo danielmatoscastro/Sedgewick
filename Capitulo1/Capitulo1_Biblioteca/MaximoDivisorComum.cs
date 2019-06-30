@@ -26,7 +26,7 @@ namespace Capitulo1_Biblioteca
 
             int r = p % q;
 
-            return Mdc(p, r);
+            return Mdc(q, r);
         }
 
         /// <summary>
