@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/packages.config" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,11 +32,76 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            <state relative-caret-position="61">
+              <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+              <folding>
+                <marker date="1562367827343" expanded="true" signature="6:165" ph="..." />
+                <marker date="1562367827343" expanded="true" signature="197:5947" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="204:303" ph="/// Classe com métodos estáticos para o cálculo de histograma. ... " />
+                <marker date="1562367827343" expanded="true" signature="331:5945" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="346:816" ph="/// Recebe uma amostra de inteiros e um valor limite M. ... " />
+                <marker date="1562367827343" expanded="false" signature="874:1274" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="1073:1232" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="1138:1218" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="1284:1726" ph="/// Recebe uma amostra de doubles no intervalo (l, r). Calcula o histograma da amostra, ... " />
+                <marker date="1562367827343" expanded="true" signature="1810:2101" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="1913:2059" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="2111:2611" ph="/// Dado um elemento de uma amostra no intervalo (l, r) dividida em N bins, ... " />
+                <marker date="1562367827343" expanded="true" signature="2703:2850" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="2860:3240" ph="/// Calcula o tamanho de um bin para uma amostra no intervalo (l, r) dividida em N bins. ... " />
+                <marker date="1562367827343" expanded="true" signature="3318:3384" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="3394:3786" ph="/// Dado uma amostra no intervalo (l, r), plota seu histograma dividido em N bins. ... " />
+                <marker date="1562367827343" expanded="true" signature="3867:4911" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="4340:4822" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="4544:4808" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="4626:4789" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="4921:5430" ph="/// Dado um histograma de uma amostra no intervalo (l, r) dividido em N bins, ... " />
+                <marker date="1562367827343" expanded="false" signature="5535:5939" ph="{...}" />
+                <marker date="1562367827343" expanded="true" signature="5728:5894" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-136">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding>
+                <marker date="1561512425429" expanded="false" signature="6:132" ph="..." />
+                <marker date="1561512425429" expanded="true" signature="164:1351" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="171:252" ph="/// Classe para ler uma lista de um arquivo. ... " />
+                <marker date="1561512425429" expanded="true" signature="283:1349" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="337:540" ph="/// Construtor para a classe LeitorDeLista. ... " />
+                <marker date="1561512425429" expanded="true" signature="591:659" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="669:892" ph="/// Lê uma lista de um arquivo. ... " />
+                <marker date="1561512425429" expanded="true" signature="920:1343" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="1018:1333" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="1111:1274" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+              <folding>
+                <marker date="1562367892984" expanded="true" signature="6:63" ph="..." />
+                <marker date="1562367892984" expanded="true" signature="92:784" ph="{...}" />
+                <marker date="1562367892984" expanded="true" signature="99:178" ph="/// Classe cliente para o exercício 1.1.32 ... " />
+                <marker date="1562367892984" expanded="true" signature="217:782" ph="{...}" />
+                <marker date="1562367892984" expanded="true" signature="263:776" ph="{...}" />
+                <marker date="1562367892984" expanded="true" signature="289:575" ph="{...}" />
+                <marker date="1562367892984" expanded="true" signature="608:683" ph="{...}" />
+                <marker date="1562367892984" expanded="true" signature="703:766" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -51,6 +116,7 @@
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBinomial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1119_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -62,7 +128,9 @@
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1128_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1114_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/ImpressorMatricial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -73,12 +141,14 @@
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConections.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" />
       </list>
     </option>
   </component>
@@ -181,12 +251,12 @@
       <workItem from="1561772963765" duration="556000" />
       <workItem from="1561929661602" duration="7096000" />
       <workItem from="1561946810515" duration="5164000" />
-      <workItem from="1562344949786" duration="7735000" />
+      <workItem from="1562344949786" duration="20286000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31549000" />
+    <option name="totallyTimeSpent" value="44100000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -215,7 +285,7 @@
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" weight="0.39739415" />
+      <window_info active="true" anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" visible="true" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
@@ -225,7 +295,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.28390166" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.28628072" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,6 +707,74 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <folding>
+            <marker date="1561512425429" expanded="false" signature="6:132" ph="..." />
+            <marker date="1561512425429" expanded="true" signature="164:1351" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="171:252" ph="/// Classe para ler uma lista de um arquivo. ... " />
+            <marker date="1561512425429" expanded="true" signature="283:1349" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="337:540" ph="/// Construtor para a classe LeitorDeLista. ... " />
+            <marker date="1561512425429" expanded="true" signature="591:659" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="669:892" ph="/// Lê uma lista de um arquivo. ... " />
+            <marker date="1561512425429" expanded="true" signature="920:1343" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="1018:1333" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="1111:1274" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <marker date="1562367827343" expanded="true" signature="6:165" ph="..." />
+            <marker date="1562367827343" expanded="true" signature="197:5947" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="204:303" ph="/// Classe com métodos estáticos para o cálculo de histograma. ... " />
+            <marker date="1562367827343" expanded="true" signature="331:5945" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="346:816" ph="/// Recebe uma amostra de inteiros e um valor limite M. ... " />
+            <marker date="1562367827343" expanded="false" signature="874:1274" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="1073:1232" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="1138:1218" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="1284:1726" ph="/// Recebe uma amostra de doubles no intervalo (l, r). Calcula o histograma da amostra, ... " />
+            <marker date="1562367827343" expanded="true" signature="1810:2101" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="1913:2059" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="2111:2611" ph="/// Dado um elemento de uma amostra no intervalo (l, r) dividida em N bins, ... " />
+            <marker date="1562367827343" expanded="true" signature="2703:2850" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="2860:3240" ph="/// Calcula o tamanho de um bin para uma amostra no intervalo (l, r) dividida em N bins. ... " />
+            <marker date="1562367827343" expanded="true" signature="3318:3384" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="3394:3786" ph="/// Dado uma amostra no intervalo (l, r), plota seu histograma dividido em N bins. ... " />
+            <marker date="1562367827343" expanded="true" signature="3867:4911" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="4340:4822" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="4544:4808" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="4626:4789" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="4921:5430" ph="/// Dado um histograma de uma amostra no intervalo (l, r) dividido em N bins, ... " />
+            <marker date="1562367827343" expanded="false" signature="5535:5939" ph="{...}" />
+            <marker date="1562367827343" expanded="true" signature="5728:5894" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+          <folding>
+            <marker date="1562367892984" expanded="true" signature="6:63" ph="..." />
+            <marker date="1562367892984" expanded="true" signature="92:784" ph="{...}" />
+            <marker date="1562367892984" expanded="true" signature="99:178" ph="/// Classe cliente para o exercício 1.1.32 ... " />
+            <marker date="1562367892984" expanded="true" signature="217:782" ph="{...}" />
+            <marker date="1562367892984" expanded="true" signature="263:776" ph="{...}" />
+            <marker date="1562367892984" expanded="true" signature="289:575" ph="{...}" />
+            <marker date="1562367892984" expanded="true" signature="608:683" ph="{...}" />
+            <marker date="1562367892984" expanded="true" signature="703:766" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -349,6 +349,12 @@ healthchecksdb
 
 #ignora a pasta de datasets
 algs4-data
+
+#outros arquivos
+ExampleHistogram.png
+doubles.txt
+Capitulo1/Capitulo1_Biblioteca/MatplotlibCS/
+
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
 

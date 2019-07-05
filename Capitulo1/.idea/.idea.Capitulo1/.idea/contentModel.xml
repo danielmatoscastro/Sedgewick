@@ -22,6 +22,7 @@
         <e p="Exercicio112_Cliente.cs" t="Include" />
         <e p="Exercicio1130_Cliente.cs" t="Include" />
         <e p="Exercicio1131_Cliente.cs" t="Include" />
+        <e p="Exercicio1132_Cliente.cs" t="Include" />
         <e p="Exercicio113_Cliente.cs" t="Include" />
         <e p="Exercicio115_Cliente.cs" t="Include" />
         <e p="Exercicio116_Cliente.cs" t="Include" />
@@ -53,6 +54,18 @@
         <e p="ImpressorVetorial.cs" t="Include" />
         <e p="LeitorDeLista.cs" t="Include" />
         <e p="Logaritmo.cs" t="Include" />
+        <e p="MatplotlibCS" t="Include">
+          <e p="annotations.py" t="Include" />
+          <e p="arc.py" t="Include" />
+          <e p="helpers.py" t="Include" />
+          <e p="histogram.py" t="Include" />
+          <e p="hline.py" t="Include" />
+          <e p="line_2d.py" t="Include" />
+          <e p="matplotlib_cs.py" t="Include" />
+          <e p="subplot.py" t="Include" />
+          <e p="task.py" t="Include" />
+          <e p="vline.py" t="Include" />
+        </e>
         <e p="MaximoDivisorComum.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
