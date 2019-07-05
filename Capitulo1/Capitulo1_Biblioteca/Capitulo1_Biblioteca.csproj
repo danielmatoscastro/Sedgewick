@@ -33,6 +33,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -43,6 +44,7 @@
   <ItemGroup>
     <Compile Include="BuscaBinaria.cs" />
     <Compile Include="ConversorDecBin.cs" />
+    <Compile Include="DistribuicaoBernoulli.cs" />
     <Compile Include="DistribuicaoBinomial.cs" />
     <Compile Include="EscritorDeLista.cs" />
     <Compile Include="Fatorial.cs" />
@@ -55,6 +57,7 @@
     <Compile Include="Logaritmo.cs" />
     <Compile Include="MaximoDivisorComum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RandomConnections.cs" />
     <Compile Include="Vetor.cs" />
   </ItemGroup>
   <ItemGroup>

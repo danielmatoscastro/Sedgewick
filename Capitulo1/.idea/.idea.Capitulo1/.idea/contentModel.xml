@@ -21,6 +21,7 @@
         <e p="Exercicio1129_Cliente.cs" t="Include" />
         <e p="Exercicio112_Cliente.cs" t="Include" />
         <e p="Exercicio1130_Cliente.cs" t="Include" />
+        <e p="Exercicio1131_Cliente.cs" t="Include" />
         <e p="Exercicio113_Cliente.cs" t="Include" />
         <e p="Exercicio115_Cliente.cs" t="Include" />
         <e p="Exercicio116_Cliente.cs" t="Include" />
@@ -41,6 +42,7 @@
         <e p="BuscaBinaria.cs" t="Include" />
         <e p="Capitulo1_Biblioteca.csproj" t="IncludeRecursive" />
         <e p="ConversorDecBin.cs" t="Include" />
+        <e p="DistribuicaoBernoulli.cs" t="Include" />
         <e p="DistribuicaoBinomial.cs" t="Include" />
         <e p="EscritorDeLista.cs" t="Include" />
         <e p="Fatorial.cs" t="Include" />
@@ -55,6 +57,7 @@
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
+        <e p="RandomConnections.cs" t="Include" />
         <e p="Vetor.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />

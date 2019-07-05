@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,91 +32,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
-              <folding>
-                <marker date="1561934308485" expanded="false" signature="6:115" ph="..." />
-                <marker date="1561934308485" expanded="true" signature="147:1771" ph="{...}" />
-                <marker date="1561934308485" expanded="true" signature="154:272" ph="/// Classe com métodos estáticos para o cálculo de M.D.C. (máximo divisor comum). ... " />
-                <marker date="1561934308485" expanded="true" signature="308:1769" ph="{...}" />
-                <marker date="1561934308485" expanded="true" signature="323:580" ph="/// Calcula o MDC de dois números usando o Algoritmo de Euclides. ... " />
-                <marker date="1561934308485" expanded="true" signature="624:781" ph="{...}" />
-                <marker date="1561934308485" expanded="true" signature="658:712" ph="{...}" />
-                <marker date="1561934308485" expanded="true" signature="791:1178" ph="/// Calcula o MDC de dois números usando o Algoritmo de Euclides. ... " />
-                <marker date="1561934308485" expanded="true" signature="1255:1443" ph="{...}" />
-                <marker date="1561934308485" expanded="true" signature="1521:1761" ph="{...}" />
-                <marker date="1561934308485" expanded="true" signature="1628:1682" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
-              <folding>
-                <marker date="1561934610409" expanded="true" signature="6:41" ph="..." />
-                <marker date="1561934610409" expanded="true" signature="70:1510" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="77:156" ph="/// Classe cliente para o exercício 1.1.30 ... " />
-                <marker date="1561934610409" expanded="true" signature="195:1508" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="241:1502" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="267:1155" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="493:574" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="619:1062" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="685:1044" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="790:891" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="920:1022" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="1188:1395" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="1301:1381" ph="{...}" />
-                <marker date="1561934610409" expanded="true" signature="1415:1478" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/ImpressorMatricial.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
-              <folding>
-                <marker date="1561512425429" expanded="false" signature="6:115" ph="..." />
-                <marker date="1561512425429" expanded="true" signature="147:3759" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="154:275" ph="/// Classe com métodos estáticos para obter representações de matrizes como strings. ... " />
-                <marker date="1561512425429" expanded="true" signature="311:3757" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="326:657" ph="/// Produz uma representação como string de uma matriz. ... " />
-                <marker date="1561512425429" expanded="true" signature="717:1205" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="920:1160" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="984:1112" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="1215:1599" ph="/// Produz uma representação como string de uma matriz booleana. ... " />
-                <marker date="1561512425429" expanded="true" signature="1667:2803" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="1877:2758" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="1942:2710" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="1991:2077" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="2102:2655" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="2159:2257" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="2286:2633" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="2358:2466" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="2499:2607" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="2813:3193" ph="/// Produz uma representação como string da transposta da matriz informada. ... " />
-                <marker date="1561512425429" expanded="true" signature="3263:3751" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="3467:3706" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="3530:3658" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -124,18 +47,22 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1121_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio112_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1128_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1114_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBinomial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1119_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/ImpressorMatricial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1121_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio112_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1128_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1114_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/ImpressorMatricial.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -144,9 +71,14 @@
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1121_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConections.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" />
+        <option value="$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" />
       </list>
     </option>
   </component>
@@ -181,11 +113,6 @@
               <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Capitulo1_Biblioteca" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Capitulo1_Cliente" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -200,6 +127,7 @@
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -251,12 +179,14 @@
       <workItem from="1561520132359" duration="1552000" />
       <workItem from="1561641388515" duration="2578000" />
       <workItem from="1561772963765" duration="556000" />
-      <workItem from="1561929661602" duration="4957000" />
+      <workItem from="1561929661602" duration="7096000" />
+      <workItem from="1561946810515" duration="5164000" />
+      <workItem from="1562344949786" duration="7735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16511000" />
+    <option name="totallyTimeSpent" value="31549000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -285,7 +215,7 @@
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" visible="true" weight="0.39739415" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
@@ -295,7 +225,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.27438542" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.28390166" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,13 +310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
           <caret line="134" column="4" selection-start-line="134" selection-start-column="4" selection-end-line="134" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="58" column="14" selection-start-line="58" selection-start-column="14" selection-end-line="58" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -539,17 +462,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        <state relative-caret-position="270">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <marker date="1561934796506" expanded="false" signature="6:115" ph="..." />
+            <marker date="1561934796506" expanded="true" signature="147:1771" ph="{...}" />
+            <marker date="1561934796506" expanded="true" signature="154:272" ph="/// Classe com métodos estáticos para o cálculo de M.D.C. (máximo divisor comum). ... " />
+            <marker date="1561934796506" expanded="true" signature="308:1769" ph="{...}" />
+            <marker date="1561934796506" expanded="true" signature="323:580" ph="/// Calcula o MDC de dois números usando o Algoritmo de Euclides. ... " />
+            <marker date="1561934796506" expanded="true" signature="624:781" ph="{...}" />
+            <marker date="1561934796506" expanded="true" signature="658:712" ph="{...}" />
+            <marker date="1561934796506" expanded="true" signature="791:1178" ph="/// Calcula o MDC de dois números usando o Algoritmo de Euclides. ... " />
+            <marker date="1561934796506" expanded="true" signature="1255:1443" ph="{...}" />
+            <marker date="1561934796506" expanded="true" signature="1521:1761" ph="{...}" />
+            <marker date="1561934796506" expanded="true" signature="1628:1682" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="44" column="46" selection-start-line="44" selection-start-column="46" selection-end-line="44" selection-end-column="46" />
+          <folding>
+            <marker date="1561934640554" expanded="true" signature="6:41" ph="..." />
+            <marker date="1561934640554" expanded="true" signature="70:1378" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="77:156" ph="/// Classe cliente para o exercício 1.1.30 ... " />
+            <marker date="1561934640554" expanded="true" signature="195:1376" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="241:1370" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="267:1155" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="493:574" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="619:1062" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="685:1044" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="790:891" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="920:1022" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="1188:1263" ph="{...}" />
+            <marker date="1561934640554" expanded="true" signature="1283:1346" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/ImpressorMatricial.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="37" column="29" lean-forward="true" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+        <state relative-caret-position="465">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
           <folding>
             <marker date="1561512425429" expanded="false" signature="6:115" ph="..." />
             <marker date="1561512425429" expanded="true" signature="147:3759" ph="{...}" />
@@ -577,46 +535,108 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs">
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        <state relative-caret-position="109">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
           <folding>
-            <marker date="1561934308485" expanded="false" signature="6:115" ph="..." />
-            <marker date="1561934308485" expanded="true" signature="147:1771" ph="{...}" />
-            <marker date="1561934308485" expanded="true" signature="154:272" ph="/// Classe com métodos estáticos para o cálculo de M.D.C. (máximo divisor comum). ... " />
-            <marker date="1561934308485" expanded="true" signature="308:1769" ph="{...}" />
-            <marker date="1561934308485" expanded="true" signature="323:580" ph="/// Calcula o MDC de dois números usando o Algoritmo de Euclides. ... " />
-            <marker date="1561934308485" expanded="true" signature="624:781" ph="{...}" />
-            <marker date="1561934308485" expanded="true" signature="658:712" ph="{...}" />
-            <marker date="1561934308485" expanded="true" signature="791:1178" ph="/// Calcula o MDC de dois números usando o Algoritmo de Euclides. ... " />
-            <marker date="1561934308485" expanded="true" signature="1255:1443" ph="{...}" />
-            <marker date="1561934308485" expanded="true" signature="1521:1761" ph="{...}" />
-            <marker date="1561934308485" expanded="true" signature="1628:1682" ph="{...}" />
+            <marker date="1561950105205" expanded="true" signature="6:93" ph="..." />
+            <marker date="1561950105205" expanded="true" signature="122:978" ph="{...}" />
+            <marker date="1561950105205" expanded="true" signature="129:209" ph="/// Classe cliente para o exercício 1.1.31. ... " />
+            <marker date="1561950105205" expanded="true" signature="248:976" ph="{...}" />
+            <marker date="1561950105205" expanded="true" signature="294:970" ph="{...}" />
+            <marker date="1561950105205" expanded="true" signature="320:766" ph="{...}" />
+            <marker date="1561950105205" expanded="true" signature="799:874" ph="{...}" />
+            <marker date="1561950105205" expanded="true" signature="894:960" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs">
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBinomial.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="47" column="42" selection-start-line="47" selection-start-column="42" selection-end-line="47" selection-end-column="42" />
+        <state relative-caret-position="135">
+          <caret line="13" column="38" lean-forward="true" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
           <folding>
-            <marker date="1561934610409" expanded="true" signature="6:41" ph="..." />
-            <marker date="1561934610409" expanded="true" signature="70:1510" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="77:156" ph="/// Classe cliente para o exercício 1.1.30 ... " />
-            <marker date="1561934610409" expanded="true" signature="195:1508" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="241:1502" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="267:1155" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="493:574" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="619:1062" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="685:1044" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="790:891" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="920:1022" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="1188:1395" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="1301:1381" ph="{...}" />
-            <marker date="1561934610409" expanded="true" signature="1415:1478" ph="{...}" />
+            <marker date="1561512425429" expanded="false" signature="6:115" ph="..." />
+            <marker date="1561512425429" expanded="true" signature="147:4157" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="154:264" ph="/// Classe com métodos estáticos para o cálculo da distribuição binomial. ... " />
+            <marker date="1561512425429" expanded="true" signature="302:4155" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="398:863" ph="/// Calcula recursivamente a probabilidade de se conseguir k sucessos em ... " />
+            <marker date="1561512425429" expanded="true" signature="925:1217" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="973:1029" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="1066:1122" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="1229:1844" ph="/// Calcula recursivamente a probabilidade de se conseguir k sucessos em ... " />
+            <marker date="1561512425429" expanded="true" signature="1930:2103" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="2181:2554" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="2229:2285" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="2322:2378" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="2564:3055" ph="/// Calcula recursivamente a probabilidade de se conseguir k sucessos em ... " />
+            <marker date="1561512425429" expanded="true" signature="3136:3309" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="3378:3640" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="3428:3630" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="3490:3616" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="3710:4149" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="3798:3871" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="3947:4011" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="4052:4139" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+          <folding>
+            <marker date="1562352429955" expanded="false" signature="6:131" ph="..." />
+            <marker date="1562352429955" expanded="true" signature="163:3389" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="200:3387" ph="{...}" />
+            <marker date="1562352429955" expanded="false" signature="512:580" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="629:850" ph="{...}" />
+            <marker date="1562352429955" expanded="false" signature="893:1465" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="1040:1198" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="1239:1427" ph="{...}" />
+            <marker date="1562352429955" expanded="false" signature="1537:1858" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="1933:2537" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="2154:2499" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="2216:2485" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="2281:2467" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="2643:3229" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="2723:3219" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="2883:3021" ph="{...}" />
+            <marker date="1562352429955" expanded="true" signature="3084:3205" ph="{...}" />
+            <marker date="1562352429955" expanded="false" signature="3287:3354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <folding>
+            <marker date="1562352885536" expanded="true" signature="45:1085" ph="{...}" />
+            <marker date="1562352885536" expanded="true" signature="52:163" ph="/// Classe com métodos estáticos para o cálculo da distribuição Bernoulli. ... " />
+            <marker date="1562352885536" expanded="true" signature="202:1083" ph="{...}" />
+            <marker date="1562352885536" expanded="true" signature="354:701" ph="{...}" />
+            <marker date="1562352885536" expanded="true" signature="612:691" ph="{...}" />
+            <marker date="1562352885536" expanded="true" signature="711:914" ph="/// Indica o resultado de um evento de Bernoulli com probabilidade de sucesso p. ... " />
+            <marker date="1562352885536" expanded="true" signature="946:1077" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
         </state>
       </provider>
     </entry>
