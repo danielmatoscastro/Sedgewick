@@ -72,6 +72,7 @@
     <Compile Include="ImpressorVetorial.cs" />
     <Compile Include="LeitorDeLista.cs" />
     <Compile Include="Logaritmo.cs" />
+    <Compile Include="Matrix.cs" />
     <Compile Include="MaximoDivisorComum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomConnections.cs" />
