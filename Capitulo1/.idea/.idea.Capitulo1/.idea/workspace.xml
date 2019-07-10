@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" afterDir="false" />
@@ -30,84 +32,58 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="83" column="21" lean-forward="true" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+            <state relative-caret-position="92">
+              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
               <folding>
-                <marker date="1562703276912" expanded="true" signature="45:6921" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="52:167" ph="/// Classe com métodos estáticos para operações envolvendo matrizes e vetores. ... " />
-                <marker date="1562703276912" expanded="true" signature="191:6919" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="206:471" ph="/// Calcula o produto escalar de dois vetores. ... " />
-                <marker date="1562703276912" expanded="false" signature="528:743" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="632:702" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="753:1137" ph="/// Calcula o produto matricial de duas matrizes quadradas de mesma ordem. ... " />
-                <marker date="1562703276912" expanded="true" signature="1203:1866" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="1324:1461" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="1563:1825" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="1621:1811" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="1687:1793" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="1876:2181" ph="/// Valida se a matriz informada é quadrada de ordem N. ... " />
-                <marker date="1562703276912" expanded="true" signature="2252:2586" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="2298:2356" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="2409:2550" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="2466:2536" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="2605:2908" ph="/// Cria uma matriz de double do tamanho informado. ... " />
-                <marker date="1562703276912" expanded="false" signature="2990:3223" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="3105:3185" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="3233:3448" ph="/// Faz a transposta da matriz informada. ... " />
-                <marker date="1562703276912" expanded="false" signature="3505:3930" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="3723:3888" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="3790:3874" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="3948:4301" ph="/// Realiza a multiplicação entre uma matriz e um vetor. ... " />
-                <marker date="1562703276912" expanded="true" signature="4363:4912" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="4421:4540" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="4701:4871" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="4769:4857" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="4930:5220" ph="/// Verifica se a multiplicação entre matriz e vetor é possível. ... " />
-                <marker date="1562703276912" expanded="false" signature="5298:5447" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="5457:5775" ph="/// Realiza a multiplicação entre um vetor e uma matriz. ... " />
-                <marker date="1562703276912" expanded="false" signature="5837:6389" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="5895:6014" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="6178:6348" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="6246:6334" ph="{...}" />
-                <marker date="1562703276912" expanded="true" signature="6399:6689" ph="/// Verifica se a multiplicação entre vetor e matriz é possível. ... " />
-                <marker date="1562703276912" expanded="false" signature="6767:6913" ph="{...}" />
+                <marker date="1562771611775" expanded="true" signature="30:800" ph="{...}" />
+                <marker date="1562771611775" expanded="true" signature="37:163" ph="/// Classe que representa a distribuição de probabilidades (exata) da soma de dois dados. ... " />
+                <marker date="1562771611775" expanded="true" signature="211:798" ph="{...}" />
+                <marker date="1562771611775" expanded="true" signature="235:389" ph="/// Cria um objeto que representa a distribuição de probabilidades (exata) ... " />
+                <marker date="1562771611775" expanded="true" signature="423:791" ph="{...}" />
+                <marker date="1562771611775" expanded="true" signature="521:672" ph="{...}" />
+                <marker date="1562771611775" expanded="true" signature="584:658" ph="{...}" />
+                <marker date="1562771611775" expanded="true" signature="722:781" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+            <state relative-caret-position="106">
+              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding>
-                <marker date="1562702738963" expanded="true" signature="6:41" ph="..." />
-                <marker date="1562702738963" expanded="true" signature="70:5262" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="77:157" ph="/// Classe cliente para o exercício 1.1.33. ... " />
-                <marker date="1562702738963" expanded="true" signature="196:5260" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="242:623" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="268:422" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="455:530" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="550:613" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="689:1333" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="726:1323" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="1372:1448" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="1494:1874" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="1924:2323" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="2373:2772" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="2814:3122" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="3173:3602" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="3648:3991" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="4046:4757" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="4455:4719" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="4522:4705" ph="{...}" />
-                <marker date="1562702738963" expanded="false" signature="4801:5254" ph="{...}" />
-                <marker date="1562702738963" expanded="true" signature="5057:5217" ph="{...}" />
+                <marker date="1562732200605" expanded="true" signature="45:1400" ph="{...}" />
+                <marker date="1562732200605" expanded="true" signature="52:183" ph="/// Classe que representa a distribuição de probabilidades (aproximada) da soma de dois dados. ... " />
+                <marker date="1562732200605" expanded="true" signature="236:1398" ph="{...}" />
+                <marker date="1562732200605" expanded="true" signature="251:530" ph="/// Cria um objeto que representa a distribuição de probabilidades ... " />
+                <marker date="1562732200605" expanded="true" signature="574:687" ph="{...}" />
+                <marker date="1562732200605" expanded="true" signature="706:925" ph="/// Aproxima a distribuição de probabilidades da soma de dois dados ... " />
+                <marker date="1562732200605" expanded="true" signature="975:1392" ph="{...}" />
+                <marker date="1562732200605" expanded="true" signature="1092:1273" ph="{...}" />
+                <marker date="1562732200605" expanded="true" signature="1324:1382" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <marker date="1562770481726" expanded="true" signature="6:41" ph="..." />
+                <marker date="1562770481726" expanded="true" signature="70:720" ph="{...}" />
+                <marker date="1562770481726" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.35. ... " />
+                <marker date="1562770481726" expanded="true" signature="189:718" ph="{...}" />
+                <marker date="1562770481726" expanded="true" signature="235:712" ph="{...}" />
+                <marker date="1562770481726" expanded="true" signature="478:586" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -116,8 +92,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            <state relative-caret-position="210">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="66" column="58" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="60" />
+              <folding>
+                <marker date="1562770450377" expanded="true" signature="45:2086" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="86:2084" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="182:336" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
+                <marker date="1562770450377" expanded="true" signature="373:426" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="444:803" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
+                <marker date="1562770450377" expanded="true" signature="860:1010" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="905:959" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="1028:1276" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
+                <marker date="1562770450377" expanded="true" signature="1326:1390" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="1433:1492" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="1549:2078" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="1598:1656" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="1765:1823" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="1874:2042" ph="{...}" />
+                <marker date="1562770450377" expanded="true" signature="1958:2028" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,26 +131,36 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1119_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1121_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio112_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1128_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1114_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/ImpressorMatricial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBinomial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1119_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1121_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio112_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1128_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1114_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/ImpressorMatricial.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,9 +178,13 @@
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs" />
       </list>
     </option>
   </component>
@@ -180,10 +196,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="59" />
-    <option name="y" value="25" />
+    <option name="x" value="605" />
+    <option name="y" value="78" />
     <option name="width" value="654" />
-    <option name="height" value="743" />
+    <option name="height" value="555" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -191,14 +207,19 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Capitulo1_Cliente" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -268,12 +289,13 @@
       <workItem from="1561946810515" duration="5164000" />
       <workItem from="1562344949786" duration="23860000" />
       <workItem from="1562690612125" duration="53000" />
-      <workItem from="1562698473425" duration="4857000" />
+      <workItem from="1562698473425" duration="5247000" />
+      <workItem from="1562729311614" duration="6359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52584000" />
+    <option name="totallyTimeSpent" value="59333000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -308,11 +330,11 @@
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="bottom" id="Errors In Solution" order="15" weight="0.32899022" />
       <window_info anchor="bottom" id="Build" order="16" sideWeight="0.4892942" weight="0.33387622" />
-      <window_info anchor="right" id="Unit Tests Coverage" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="0" weight="0.3298969" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.21570182" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.2482157" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +391,42 @@
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="soma.Distribuicao[i]" language="C#" custom="RiderImportsList:" />
+        <watch expression="dist[i]" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>dist[i]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>soma.Distribuicao[i]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>Math.Abs(soma.Distribuicao[i] - dist[i])</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>soma.Distribuicao[i]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Capitulo1.sln">
@@ -788,48 +846,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-          <folding>
-            <marker date="1562702738963" expanded="true" signature="6:41" ph="..." />
-            <marker date="1562702738963" expanded="true" signature="70:5262" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="77:157" ph="/// Classe cliente para o exercício 1.1.33. ... " />
-            <marker date="1562702738963" expanded="true" signature="196:5260" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="242:623" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="268:422" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="455:530" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="550:613" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="689:1333" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="726:1323" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="1372:1448" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="1494:1874" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="1924:2323" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="2373:2772" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="2814:3122" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="3173:3602" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="3648:3991" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="4046:4757" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="4455:4719" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="4522:4705" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="4801:5254" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="5057:5217" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="83" column="21" lean-forward="true" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+        <state relative-caret-position="1656">
+          <caret line="127" column="42" lean-forward="true" selection-start-line="127" selection-start-column="42" selection-end-line="127" selection-end-column="42" />
           <folding>
             <marker date="1562703276912" expanded="true" signature="45:6921" ph="{...}" />
             <marker date="1562703276912" expanded="true" signature="52:167" ph="/// Classe com métodos estáticos para operações envolvendo matrizes e vetores. ... " />
@@ -869,6 +889,118 @@
             <marker date="1562703276912" expanded="true" signature="6246:6334" ph="{...}" />
             <marker date="1562703276912" expanded="true" signature="6399:6689" ph="/// Verifica se a multiplicação entre vetor e matriz é possível. ... " />
             <marker date="1562703276912" expanded="false" signature="6767:6913" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
+          <folding>
+            <marker date="1562702738963" expanded="true" signature="6:41" ph="..." />
+            <marker date="1562702738963" expanded="true" signature="70:5262" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="77:157" ph="/// Classe cliente para o exercício 1.1.33. ... " />
+            <marker date="1562702738963" expanded="true" signature="196:5260" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="242:623" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="268:422" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="455:530" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="550:613" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="689:1333" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="726:1323" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="1372:1448" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="1494:1874" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="1924:2323" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="2373:2772" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="2814:3122" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="3173:3602" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="3648:3991" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="4046:4757" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="4455:4719" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="4522:4705" ph="{...}" />
+            <marker date="1562702738963" expanded="false" signature="4801:5254" ph="{...}" />
+            <marker date="1562702738963" expanded="true" signature="5057:5217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1562770481726" expanded="true" signature="6:41" ph="..." />
+            <marker date="1562770481726" expanded="true" signature="70:720" ph="{...}" />
+            <marker date="1562770481726" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.35. ... " />
+            <marker date="1562770481726" expanded="true" signature="189:718" ph="{...}" />
+            <marker date="1562770481726" expanded="true" signature="235:712" ph="{...}" />
+            <marker date="1562770481726" expanded="true" signature="478:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="66" column="58" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="60" />
+          <folding>
+            <marker date="1562770450377" expanded="true" signature="45:2086" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="86:2084" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="182:336" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
+            <marker date="1562770450377" expanded="true" signature="373:426" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="444:803" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
+            <marker date="1562770450377" expanded="true" signature="860:1010" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="905:959" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="1028:1276" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
+            <marker date="1562770450377" expanded="true" signature="1326:1390" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="1433:1492" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="1549:2078" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="1598:1656" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="1765:1823" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="1874:2042" ph="{...}" />
+            <marker date="1562770450377" expanded="true" signature="1958:2028" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <folding>
+            <marker date="1562732200605" expanded="true" signature="45:1400" ph="{...}" />
+            <marker date="1562732200605" expanded="true" signature="52:183" ph="/// Classe que representa a distribuição de probabilidades (aproximada) da soma de dois dados. ... " />
+            <marker date="1562732200605" expanded="true" signature="236:1398" ph="{...}" />
+            <marker date="1562732200605" expanded="true" signature="251:530" ph="/// Cria um objeto que representa a distribuição de probabilidades ... " />
+            <marker date="1562732200605" expanded="true" signature="574:687" ph="{...}" />
+            <marker date="1562732200605" expanded="true" signature="706:925" ph="/// Aproxima a distribuição de probabilidades da soma de dois dados ... " />
+            <marker date="1562732200605" expanded="true" signature="975:1392" ph="{...}" />
+            <marker date="1562732200605" expanded="true" signature="1092:1273" ph="{...}" />
+            <marker date="1562732200605" expanded="true" signature="1324:1382" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1562771611775" expanded="true" signature="30:800" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="37:163" ph="/// Classe que representa a distribuição de probabilidades (exata) da soma de dois dados. ... " />
+            <marker date="1562771611775" expanded="true" signature="211:798" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="235:389" ph="/// Cria um objeto que representa a distribuição de probabilidades (exata) ... " />
+            <marker date="1562771611775" expanded="true" signature="423:791" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="521:672" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="584:658" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="722:781" ph="{...}" />
           </folding>
         </state>
       </provider>

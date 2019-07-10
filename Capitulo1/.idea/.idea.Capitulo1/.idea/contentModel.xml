@@ -24,6 +24,7 @@
         <e p="Exercicio1131_Cliente.cs" t="Include" />
         <e p="Exercicio1132_Cliente.cs" t="Include" />
         <e p="Exercicio1133_Cliente.cs" t="Include" />
+        <e p="Exercicio1135_Cliente.cs" t="Include" />
         <e p="Exercicio113_Cliente.cs" t="Include" />
         <e p="Exercicio115_Cliente.cs" t="Include" />
         <e p="Exercicio116_Cliente.cs" t="Include" />
@@ -73,6 +74,9 @@
           <e p="AssemblyInfo.cs" t="Include" />
         </e>
         <e p="RandomConnections.cs" t="Include" />
+        <e p="SomaDeDados.cs" t="Include" />
+        <e p="SomaDeDadosAproximada.cs" t="Include" />
+        <e p="SomaDeDadosExata.cs" t="Include" />
         <e p="Vetor.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive" />

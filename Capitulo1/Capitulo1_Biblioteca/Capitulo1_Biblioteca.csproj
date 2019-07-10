@@ -76,6 +76,9 @@
     <Compile Include="MaximoDivisorComum.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomConnections.cs" />
+    <Compile Include="SomaDeDados.cs" />
+    <Compile Include="SomaDeDadosAproximada.cs" />
+    <Compile Include="SomaDeDadosExata.cs" />
     <Compile Include="Vetor.cs" />
   </ItemGroup>
   <ItemGroup>
