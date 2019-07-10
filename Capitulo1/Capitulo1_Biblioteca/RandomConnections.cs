@@ -6,6 +6,9 @@ using System.Drawing.Imaging;
 
 namespace Capitulo1_Biblioteca
 {
+    /// <summary>
+    /// Classe para a resolução do exercício 1.1.31.
+    /// </summary>
     public class RandomConnections
     {
         private const int LADO = 500;
@@ -17,12 +20,21 @@ namespace Capitulo1_Biblioteca
         private int N;
         private double p;
 
+        /// <summary>
+        /// Cria um objeto responsável por gerar a imagem conforme enunciado do exercício.
+        /// </summary>
+        /// <param name="N">Número de pontos no círculo.</param>
+        /// <param name="p">Probabilidade de dois pontos serem conectados.</param>
         public RandomConnections(int N, double p)
         {
             this.N = N;
             this.p = p;
         }
         
+        /// <summary>
+        /// Gera a imagem conforme o enunciado.
+        /// </summary>
+        /// <param name="destino">Caminho do destino da imagem.</param>
         public void Run(string destino)
         {
             List<Point> pontos = GerarPontos();

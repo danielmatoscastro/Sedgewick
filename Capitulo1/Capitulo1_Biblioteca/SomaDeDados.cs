@@ -2,9 +2,19 @@ using System;
 
 namespace Capitulo1_Biblioteca
 {
+    /// <summary>
+    /// Representa uma distribuição de probabilidades para a soma de dois dados.
+    /// </summary>
     public  abstract class SomaDeDados
     {
+        /// <summary>
+        /// Número de lados do dado.
+        /// </summary>
         protected const int LADOS = 6;
+        
+        /// <summary>
+        /// Array dist tal que dist[k] é a probabilidade dos dados somarem k.
+        /// </summary>
         protected double[] dist;
         
         /// <summary>
@@ -43,11 +53,21 @@ namespace Capitulo1_Biblioteca
             return k <= 0 || k > 2 * LADOS;
         }
 
+        
+        /// <summary>
+        /// Gera um hash code para um objeto SomaDeDados.
+        /// </summary>
+        /// <returns></returns>
         public override int GetHashCode()
         {
             return base.GetHashCode();
         }
         
+        /// <summary>
+        /// Verifica se duas distribuições são iguais (diferem em cada valor por 10e-3 ou menos.))
+        /// </summary>
+        /// <param name="obj">Distribuição a ser comparada.</param>
+        /// <returns>True se a igualdade for satisfeita. False caso contrário.</returns>
         public override bool Equals(object obj)
         {
             if (!(obj is SomaDeDados))

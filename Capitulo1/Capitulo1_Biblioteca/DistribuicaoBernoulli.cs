@@ -11,6 +11,10 @@ namespace Capitulo1_Biblioteca
         private static int[] resultados;
         private Random random;
 
+        /// <summary>
+        /// Cria um objeto que representa uma distribuição de probabilidades de Bernoulli.
+        /// </summary>
+        /// <param name="p"></param>
         public DistribuicaoBernoulli(double p)
         {
             this.p = p;

@@ -89,6 +89,7 @@ namespace Capitulo1_Biblioteca
 
         /// <summary>
         /// Dado uma amostra no intervalo (l, r), plota seu histograma dividido em N bins.
+        /// Baseado no código em: https://github.com/ITGlobal/MatplotlibCS/tree/master/Examples
         /// </summary>
         /// <param name="a">Amostra no intervalo (l, r).</param>
         /// <param name="l">Limite inferior da amostra (excluso).</param>

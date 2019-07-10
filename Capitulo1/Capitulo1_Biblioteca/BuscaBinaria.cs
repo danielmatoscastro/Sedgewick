@@ -157,7 +157,7 @@ namespace Capitulo1_Biblioteca
         /// <param name="arr">Espaço de busca.</param>
         /// <param name="lo">Menor índice do vetor.</param>
         /// <param name="hiPlus1">Quantidade de elementos no vetor.</param>
-        /// <returns>Retorna a posição i do vetor arr tal que arr[i-1] < key <= arr[i].</returns>
+        /// <returns>Retorna a posição i do vetor arr tal que arr[i-1] &lt; key &lt;= arr[i].</returns>
         private static int RankMenores(int key, int[] arr, int lo, int hiPlus1)
         {
             if (key <= arr[0])
@@ -197,9 +197,9 @@ namespace Capitulo1_Biblioteca
         /// </summary>
         /// <param name="key">Elemento a ser buscado.</param>
         /// <param name="arr">Espaço de busca.</param>
-        /// <param name="lo">Menor índice do vetor.</param>
-        /// <param name="hiPlus1">Quantidade de elementos no vetor.</param>
-        /// <returns>Retorna a posição i do vetor arr tal que arr[i-1] <= key < arr[i].</returns>
+        /// <param name="loMinus1">Menor índice do vetor menos 1.</param>
+        /// <param name="hi">Maior índice do vetor.</param>
+        /// <returns>Retorna a posição i do vetor arr tal que arr[i-1] &lt;= key &lt; arr[i].</returns>
         private static int RankMaiores(int key, int[] arr, int loMinus1, int hi)
         {
             if (arr[hi] <= key)

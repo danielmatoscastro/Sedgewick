@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,62 +32,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-              <folding>
-                <marker date="1562771611775" expanded="true" signature="30:800" ph="{...}" />
-                <marker date="1562771611775" expanded="true" signature="37:163" ph="/// Classe que representa a distribuição de probabilidades (exata) da soma de dois dados. ... " />
-                <marker date="1562771611775" expanded="true" signature="211:798" ph="{...}" />
-                <marker date="1562771611775" expanded="true" signature="235:389" ph="/// Cria um objeto que representa a distribuição de probabilidades (exata) ... " />
-                <marker date="1562771611775" expanded="true" signature="423:791" ph="{...}" />
-                <marker date="1562771611775" expanded="true" signature="521:672" ph="{...}" />
-                <marker date="1562771611775" expanded="true" signature="584:658" ph="{...}" />
-                <marker date="1562771611775" expanded="true" signature="722:781" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-              <folding>
-                <marker date="1562732200605" expanded="true" signature="45:1400" ph="{...}" />
-                <marker date="1562732200605" expanded="true" signature="52:183" ph="/// Classe que representa a distribuição de probabilidades (aproximada) da soma de dois dados. ... " />
-                <marker date="1562732200605" expanded="true" signature="236:1398" ph="{...}" />
-                <marker date="1562732200605" expanded="true" signature="251:530" ph="/// Cria um objeto que representa a distribuição de probabilidades ... " />
-                <marker date="1562732200605" expanded="true" signature="574:687" ph="{...}" />
-                <marker date="1562732200605" expanded="true" signature="706:925" ph="/// Aproxima a distribuição de probabilidades da soma de dois dados ... " />
-                <marker date="1562732200605" expanded="true" signature="975:1392" ph="{...}" />
-                <marker date="1562732200605" expanded="true" signature="1092:1273" ph="{...}" />
-                <marker date="1562732200605" expanded="true" signature="1324:1382" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-              <folding>
-                <marker date="1562770481726" expanded="true" signature="6:41" ph="..." />
-                <marker date="1562770481726" expanded="true" signature="70:720" ph="{...}" />
-                <marker date="1562770481726" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.35. ... " />
-                <marker date="1562770481726" expanded="true" signature="189:718" ph="{...}" />
-                <marker date="1562770481726" expanded="true" signature="235:712" ph="{...}" />
-                <marker date="1562770481726" expanded="true" signature="478:586" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
           <provider selected="true" editor-type-id="text-editor">
@@ -99,26 +42,195 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="183">
+              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+              <folding>
+                <marker date="1562772424167" expanded="false" signature="6:115" ph="..." />
+                <marker date="1562772424167" expanded="true" signature="147:1219" ph="{...}" />
+                <marker date="1562772424167" expanded="true" signature="154:252" ph="/// Classe com métodos estáticos para manipulação de vetores. ... " />
+                <marker date="1562772424167" expanded="true" signature="275:1217" ph="{...}" />
+                <marker date="1562772424167" expanded="true" signature="291:640" ph="/// Remove elementos duplicados em um vetor. ... " />
+                <marker date="1562772424167" expanded="false" signature="701:1192" ph="{...}" />
+                <marker date="1562772424167" expanded="true" signature="890:1098" ph="{...}" />
+                <marker date="1562772424167" expanded="true" signature="964:1084" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+              <folding>
+                <marker date="1562773576001" expanded="false" signature="6:131" ph="..." />
+                <marker date="1562773576001" expanded="true" signature="163:3928" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="170:255" ph="/// Classe para a resolução do exercício 1.1.31. ... " />
+                <marker date="1562773576001" expanded="true" signature="290:3926" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="561:836" ph="/// Cria um objeto responsável por gerar a imagem conforme enunciado do exercício. ... " />
+                <marker date="1562773576001" expanded="true" signature="886:954" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="972:1128" ph="/// Gera a imagem conforme o enunciado. ... " />
+                <marker date="1562773576001" expanded="true" signature="1168:1389" ph="{...}" />
+                <marker date="1562773576001" expanded="false" signature="1432:2004" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="1579:1737" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="1778:1966" ph="{...}" />
+                <marker date="1562773576001" expanded="false" signature="2076:2397" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="2472:3076" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="2693:3038" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="2755:3024" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="2820:3006" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="3182:3768" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="3262:3758" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="3422:3560" ph="{...}" />
+                <marker date="1562773576001" expanded="true" signature="3623:3744" ph="{...}" />
+                <marker date="1562773576001" expanded="false" signature="3826:3893" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="70">
-              <caret line="66" column="58" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="60" />
+            <state relative-caret-position="60">
+              <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
               <folding>
-                <marker date="1562770450377" expanded="true" signature="45:2086" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="86:2084" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="182:336" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
-                <marker date="1562770450377" expanded="true" signature="373:426" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="444:803" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
-                <marker date="1562770450377" expanded="true" signature="860:1010" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="905:959" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="1028:1276" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
-                <marker date="1562770450377" expanded="true" signature="1326:1390" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="1433:1492" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="1549:2078" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="1598:1656" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="1765:1823" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="1874:2042" ph="{...}" />
-                <marker date="1562770450377" expanded="true" signature="1958:2028" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="45:2204" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="52:165" ph="/// Representa uma distribuição de probabilidades para a soma de dois dados. ... " />
+                <marker date="1562773608301" expanded="true" signature="204:2202" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="300:454" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
+                <marker date="1562773608301" expanded="true" signature="491:544" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="562:921" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
+                <marker date="1562773608301" expanded="true" signature="978:1128" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="1023:1077" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="1146:1394" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
+                <marker date="1562773608301" expanded="true" signature="1444:1508" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="1551:1610" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="1667:2196" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="1716:1774" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="1883:1941" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="1992:2160" ph="{...}" />
+                <marker date="1562773608301" expanded="true" signature="2076:2146" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="94" column="73" lean-forward="true" selection-start-line="94" selection-start-column="73" selection-end-line="94" selection-end-column="73" />
+              <folding>
+                <marker date="1562772464116" expanded="true" signature="6:165" ph="..." />
+                <marker date="1562772464116" expanded="true" signature="197:6043" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="204:303" ph="/// Classe com métodos estáticos para o cálculo de histograma. ... " />
+                <marker date="1562772464116" expanded="true" signature="331:6041" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="346:816" ph="/// Recebe uma amostra de inteiros e um valor limite M. ... " />
+                <marker date="1562772464116" expanded="false" signature="874:1274" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="1073:1232" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="1138:1218" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="1284:1726" ph="/// Recebe uma amostra de doubles no intervalo (l, r). Calcula o histograma da amostra, ... " />
+                <marker date="1562772464116" expanded="true" signature="1810:2101" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="1913:2059" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="2111:2611" ph="/// Dado um elemento de uma amostra no intervalo (l, r) dividida em N bins, ... " />
+                <marker date="1562772464116" expanded="true" signature="2703:2850" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="2860:3240" ph="/// Calcula o tamanho de um bin para uma amostra no intervalo (l, r) dividida em N bins. ... " />
+                <marker date="1562772464116" expanded="true" signature="3318:3384" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="3394:3882" ph="/// Dado uma amostra no intervalo (l, r), plota seu histograma dividido em N bins. ... " />
+                <marker date="1562772464116" expanded="true" signature="3963:5007" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="4436:4918" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="4640:4904" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="4722:4885" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="5017:5526" ph="/// Dado um histograma de uma amostra no intervalo (l, r) dividido em N bins, ... " />
+                <marker date="1562772464116" expanded="false" signature="5631:6035" ph="{...}" />
+                <marker date="1562772464116" expanded="true" signature="5824:5990" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="767">
+              <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret line="200" column="51" selection-start-line="200" selection-start-column="51" selection-end-line="200" selection-end-column="51" />
+              <folding>
+                <marker date="1562773351678" expanded="true" signature="6:115" ph="..." />
+                <marker date="1562773351678" expanded="true" signature="147:7858" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="154:257" ph="/// Classe com métodos estáticos para realização de busca binária. ... " />
+                <marker date="1562773351678" expanded="true" signature="287:7856" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="304:695" ph="/// Realiza busca binária iterativa no array informado, buscando pelo ... " />
+                <marker date="1562773351678" expanded="false" signature="746:820" ph="{...}" />
+                <marker date="1562773351678" expanded="false" signature="889:1359" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="928:1325" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="1028:1096" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="1149:1219" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="1240:1311" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="1369:1760" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
+                <marker date="1562773351678" expanded="true" signature="1820:1899" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="1978:2530" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="2013:2068" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="2147:2203" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="2220:2507" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="2270:2371" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="2392:2493" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="2540:2968" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
+                <marker date="1562773351678" expanded="false" signature="3061:3273" ph="{...}" />
+                <marker date="1562773351678" expanded="false" signature="3387:4094" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="3546:3601" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="3680:3736" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="3753:4084" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="3803:3926" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="3947:4070" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="4104:4421" ph="/// Conta quantos elementos do vetor ordenado arr são menores que key. ... " />
+                <marker date="1562773351678" expanded="true" signature="4479:4556" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="4566:5152" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
+                <marker date="1562773351678" expanded="true" signature="5232:5665" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="5273:5327" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="5375:5435" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="5513:5602" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="5683:6000" ph="/// Conta quantos elementos do vetor ordenado arr são maiores que key. ... " />
+                <marker date="1562773351678" expanded="true" signature="6058:6151" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="6169:6753" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
+                <marker date="1562773351678" expanded="false" signature="6834:7384" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="6876:6933" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="6973:7038" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="7085:7140" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="7231:7321" ph="{...}" />
+                <marker date="1562773351678" expanded="true" signature="7394:7690" ph="/// Conta quantos elementos no vetor ordenado são iguais a key. ... " />
+                <marker date="1562773351678" expanded="true" signature="7742:7841" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
+              <folding>
+                <marker date="1562773392751" expanded="true" signature="45:1258" ph="{...}" />
+                <marker date="1562773392751" expanded="true" signature="52:163" ph="/// Classe com métodos estáticos para o cálculo da distribuição Bernoulli. ... " />
+                <marker date="1562773392751" expanded="true" signature="202:1256" ph="{...}" />
+                <marker date="1562773392751" expanded="true" signature="316:480" ph="/// Cria um objeto que representa uma distribuição de probabilidades de Bernoulli. ... " />
+                <marker date="1562773392751" expanded="true" signature="527:874" ph="{...}" />
+                <marker date="1562773392751" expanded="true" signature="785:864" ph="{...}" />
+                <marker date="1562773392751" expanded="true" signature="884:1087" ph="/// Indica o resultado de um evento de Bernoulli com probabilidade de sucesso p. ... " />
+                <marker date="1562773392751" expanded="true" signature="1119:1250" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -149,10 +261,12 @@
     <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/GeradorAleatorio.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBinomial.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" root0="FORCE_HIGHLIGHTING" />
@@ -167,24 +281,25 @@
       <list>
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1114_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1121_Cliente.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/MaximoDivisorComum.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConections.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" />
       </list>
     </option>
   </component>
@@ -219,7 +334,7 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Capitulo1_Cliente" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Capitulo1_Biblioteca" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -290,12 +405,12 @@
       <workItem from="1562344949786" duration="23860000" />
       <workItem from="1562690612125" duration="53000" />
       <workItem from="1562698473425" duration="5247000" />
-      <workItem from="1562729311614" duration="6359000" />
+      <workItem from="1562729311614" duration="8332000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59333000" />
+    <option name="totallyTimeSpent" value="61306000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -324,12 +439,12 @@
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" visible="true" weight="0.39739415" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="bottom" id="Errors In Solution" order="15" weight="0.32899022" />
-      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.4892942" weight="0.33387622" />
+      <window_info active="true" anchor="bottom" id="Build" order="16" sideWeight="0.4892942" visible="true" weight="0.33387622" />
       <window_info anchor="right" id="Unit Tests Coverage" order="0" weight="0.3298969" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
@@ -429,9 +544,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Capitulo1.sln">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -513,59 +625,6 @@
             <marker date="1561512425429" expanded="true" signature="288:1433" ph="{...}" />
             <marker date="1561512425429" expanded="true" signature="1226:1391" ph="{...}" />
             <marker date="1561512425429" expanded="true" signature="1299:1377" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="234" column="58" selection-start-line="234" selection-start-column="58" selection-end-line="234" selection-end-column="58" />
-          <folding>
-            <marker date="1561932887828" expanded="true" signature="6:115" ph="..." />
-            <marker date="1561932887828" expanded="true" signature="147:7848" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="154:257" ph="/// Classe com métodos estáticos para realização de busca binária. ... " />
-            <marker date="1561932887828" expanded="true" signature="287:7846" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="304:695" ph="/// Realiza busca binária iterativa no array informado, buscando pelo ... " />
-            <marker date="1561932887828" expanded="false" signature="746:820" ph="{...}" />
-            <marker date="1561932887828" expanded="false" signature="889:1359" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="928:1325" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="1028:1096" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="1149:1219" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="1240:1311" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="1369:1760" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
-            <marker date="1561932887828" expanded="true" signature="1820:1899" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="1978:2530" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="2013:2068" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="2147:2203" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="2220:2507" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="2270:2371" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="2392:2493" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="2540:2968" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
-            <marker date="1561932887828" expanded="false" signature="3061:3273" ph="{...}" />
-            <marker date="1561932887828" expanded="false" signature="3387:4094" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="3546:3601" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="3680:3736" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="3753:4084" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="3803:3926" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="3947:4070" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="4104:4421" ph="/// Conta quantos elementos do vetor ordenado arr são menores que key. ... " />
-            <marker date="1561932887828" expanded="true" signature="4479:4556" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="4566:5146" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
-            <marker date="1561932887828" expanded="true" signature="5226:5659" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="5267:5321" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="5369:5429" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="5507:5596" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="5677:5994" ph="/// Conta quantos elementos do vetor ordenado arr são maiores que key. ... " />
-            <marker date="1561932887828" expanded="true" signature="6052:6145" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="6163:6743" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
-            <marker date="1561932887828" expanded="false" signature="6824:7374" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="6866:6923" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="6963:7028" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="7075:7130" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="7221:7311" ph="{...}" />
-            <marker date="1561932887828" expanded="true" signature="7384:7680" ph="/// Conta quantos elementos no vetor ordenado são iguais a key. ... " />
-            <marker date="1561932887828" expanded="true" signature="7732:7831" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -680,13 +739,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
@@ -735,49 +787,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="71" column="45" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
-          <folding>
-            <marker date="1562352429955" expanded="false" signature="6:131" ph="..." />
-            <marker date="1562352429955" expanded="true" signature="163:3389" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="200:3387" ph="{...}" />
-            <marker date="1562352429955" expanded="false" signature="512:580" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="629:850" ph="{...}" />
-            <marker date="1562352429955" expanded="false" signature="893:1465" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="1040:1198" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="1239:1427" ph="{...}" />
-            <marker date="1562352429955" expanded="false" signature="1537:1858" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="1933:2537" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="2154:2499" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="2216:2485" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="2281:2467" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="2643:3229" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="2723:3219" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="2883:3021" ph="{...}" />
-            <marker date="1562352429955" expanded="true" signature="3084:3205" ph="{...}" />
-            <marker date="1562352429955" expanded="false" signature="3287:3354" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <marker date="1562352885536" expanded="true" signature="45:1085" ph="{...}" />
-            <marker date="1562352885536" expanded="true" signature="52:163" ph="/// Classe com métodos estáticos para o cálculo da distribuição Bernoulli. ... " />
-            <marker date="1562352885536" expanded="true" signature="202:1083" ph="{...}" />
-            <marker date="1562352885536" expanded="true" signature="354:701" ph="{...}" />
-            <marker date="1562352885536" expanded="true" signature="612:691" ph="{...}" />
-            <marker date="1562352885536" expanded="true" signature="711:914" ph="/// Indica o resultado de um evento de Bernoulli com probabilidade de sucesso p. ... " />
-            <marker date="1562352885536" expanded="true" signature="946:1077" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
@@ -793,38 +802,6 @@
             <marker date="1561512425429" expanded="true" signature="920:1343" ph="{...}" />
             <marker date="1561512425429" expanded="true" signature="1018:1333" ph="{...}" />
             <marker date="1561512425429" expanded="true" signature="1111:1274" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
-          <folding>
-            <marker date="1562367827343" expanded="true" signature="6:165" ph="..." />
-            <marker date="1562367827343" expanded="true" signature="197:5947" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="204:303" ph="/// Classe com métodos estáticos para o cálculo de histograma. ... " />
-            <marker date="1562367827343" expanded="true" signature="331:5945" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="346:816" ph="/// Recebe uma amostra de inteiros e um valor limite M. ... " />
-            <marker date="1562367827343" expanded="false" signature="874:1274" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="1073:1232" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="1138:1218" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="1284:1726" ph="/// Recebe uma amostra de doubles no intervalo (l, r). Calcula o histograma da amostra, ... " />
-            <marker date="1562367827343" expanded="true" signature="1810:2101" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="1913:2059" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="2111:2611" ph="/// Dado um elemento de uma amostra no intervalo (l, r) dividida em N bins, ... " />
-            <marker date="1562367827343" expanded="true" signature="2703:2850" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="2860:3240" ph="/// Calcula o tamanho de um bin para uma amostra no intervalo (l, r) dividida em N bins. ... " />
-            <marker date="1562367827343" expanded="true" signature="3318:3384" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="3394:3786" ph="/// Dado uma amostra no intervalo (l, r), plota seu histograma dividido em N bins. ... " />
-            <marker date="1562367827343" expanded="true" signature="3867:4911" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="4340:4822" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="4544:4808" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="4626:4789" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="4921:5430" ph="/// Dado um histograma de uma amostra no intervalo (l, r) dividido em N bins, ... " />
-            <marker date="1562367827343" expanded="false" signature="5535:5939" ph="{...}" />
-            <marker date="1562367827343" expanded="true" signature="5728:5894" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -924,48 +901,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="206">
+          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
-            <marker date="1562770481726" expanded="true" signature="6:41" ph="..." />
-            <marker date="1562770481726" expanded="true" signature="70:720" ph="{...}" />
-            <marker date="1562770481726" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.35. ... " />
-            <marker date="1562770481726" expanded="true" signature="189:718" ph="{...}" />
-            <marker date="1562770481726" expanded="true" signature="235:712" ph="{...}" />
-            <marker date="1562770481726" expanded="true" signature="478:586" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="70">
-          <caret line="66" column="58" lean-forward="true" selection-start-line="66" selection-start-column="20" selection-end-line="66" selection-end-column="60" />
-          <folding>
-            <marker date="1562770450377" expanded="true" signature="45:2086" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="86:2084" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="182:336" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
-            <marker date="1562770450377" expanded="true" signature="373:426" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="444:803" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
-            <marker date="1562770450377" expanded="true" signature="860:1010" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="905:959" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="1028:1276" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
-            <marker date="1562770450377" expanded="true" signature="1326:1390" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="1433:1492" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="1549:2078" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="1598:1656" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="1765:1823" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="1874:2042" ph="{...}" />
-            <marker date="1562770450377" expanded="true" signature="1958:2028" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="30:800" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="37:163" ph="/// Classe que representa a distribuição de probabilidades (exata) da soma de dois dados. ... " />
+            <marker date="1562771611775" expanded="true" signature="211:798" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="235:389" ph="/// Cria um objeto que representa a distribuição de probabilidades (exata) ... " />
+            <marker date="1562771611775" expanded="true" signature="423:791" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="521:672" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="584:658" ph="{...}" />
+            <marker date="1562771611775" expanded="true" signature="722:781" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -988,19 +936,224 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs">
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+        <state relative-caret-position="48">
+          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding>
-            <marker date="1562771611775" expanded="true" signature="30:800" ph="{...}" />
-            <marker date="1562771611775" expanded="true" signature="37:163" ph="/// Classe que representa a distribuição de probabilidades (exata) da soma de dois dados. ... " />
-            <marker date="1562771611775" expanded="true" signature="211:798" ph="{...}" />
-            <marker date="1562771611775" expanded="true" signature="235:389" ph="/// Cria um objeto que representa a distribuição de probabilidades (exata) ... " />
-            <marker date="1562771611775" expanded="true" signature="423:791" ph="{...}" />
-            <marker date="1562771611775" expanded="true" signature="521:672" ph="{...}" />
-            <marker date="1562771611775" expanded="true" signature="584:658" ph="{...}" />
-            <marker date="1562771611775" expanded="true" signature="722:781" ph="{...}" />
+            <marker date="1562770481726" expanded="true" signature="6:41" ph="..." />
+            <marker date="1562770481726" expanded="true" signature="70:720" ph="{...}" />
+            <marker date="1562770481726" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.35. ... " />
+            <marker date="1562770481726" expanded="true" signature="189:718" ph="{...}" />
+            <marker date="1562770481726" expanded="true" signature="235:712" ph="{...}" />
+            <marker date="1562770481726" expanded="true" signature="478:586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/GeradorAleatorio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1561512425429" expanded="false" signature="6:115" ph="..." />
+            <marker date="1561512425429" expanded="true" signature="147:1031" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="154:261" ph="/// Classe com métodos estáticos para a geração de números aleatórios. ... " />
+            <marker date="1561512425429" expanded="true" signature="295:1029" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="310:704" ph="/// Gera um array de inteiros aleatórios. ... " />
+            <marker date="1561512425429" expanded="true" signature="769:1023" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="902:984" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <marker date="1562772424167" expanded="false" signature="6:115" ph="..." />
+            <marker date="1562772424167" expanded="true" signature="147:1219" ph="{...}" />
+            <marker date="1562772424167" expanded="true" signature="154:252" ph="/// Classe com métodos estáticos para manipulação de vetores. ... " />
+            <marker date="1562772424167" expanded="true" signature="275:1217" ph="{...}" />
+            <marker date="1562772424167" expanded="true" signature="291:640" ph="/// Remove elementos duplicados em um vetor. ... " />
+            <marker date="1562772424167" expanded="false" signature="701:1192" ph="{...}" />
+            <marker date="1562772424167" expanded="true" signature="890:1098" ph="{...}" />
+            <marker date="1562772424167" expanded="true" signature="964:1084" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="94" column="73" lean-forward="true" selection-start-line="94" selection-start-column="73" selection-end-line="94" selection-end-column="73" />
+          <folding>
+            <marker date="1562772464116" expanded="true" signature="6:165" ph="..." />
+            <marker date="1562772464116" expanded="true" signature="197:6043" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="204:303" ph="/// Classe com métodos estáticos para o cálculo de histograma. ... " />
+            <marker date="1562772464116" expanded="true" signature="331:6041" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="346:816" ph="/// Recebe uma amostra de inteiros e um valor limite M. ... " />
+            <marker date="1562772464116" expanded="false" signature="874:1274" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="1073:1232" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="1138:1218" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="1284:1726" ph="/// Recebe uma amostra de doubles no intervalo (l, r). Calcula o histograma da amostra, ... " />
+            <marker date="1562772464116" expanded="true" signature="1810:2101" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="1913:2059" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="2111:2611" ph="/// Dado um elemento de uma amostra no intervalo (l, r) dividida em N bins, ... " />
+            <marker date="1562772464116" expanded="true" signature="2703:2850" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="2860:3240" ph="/// Calcula o tamanho de um bin para uma amostra no intervalo (l, r) dividida em N bins. ... " />
+            <marker date="1562772464116" expanded="true" signature="3318:3384" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="3394:3882" ph="/// Dado uma amostra no intervalo (l, r), plota seu histograma dividido em N bins. ... " />
+            <marker date="1562772464116" expanded="true" signature="3963:5007" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="4436:4918" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="4640:4904" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="4722:4885" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="5017:5526" ph="/// Dado um histograma de uma amostra no intervalo (l, r) dividido em N bins, ... " />
+            <marker date="1562772464116" expanded="false" signature="5631:6035" ph="{...}" />
+            <marker date="1562772464116" expanded="true" signature="5824:5990" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="767">
+          <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret line="200" column="51" selection-start-line="200" selection-start-column="51" selection-end-line="200" selection-end-column="51" />
+          <folding>
+            <marker date="1562773351678" expanded="true" signature="6:115" ph="..." />
+            <marker date="1562773351678" expanded="true" signature="147:7858" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="154:257" ph="/// Classe com métodos estáticos para realização de busca binária. ... " />
+            <marker date="1562773351678" expanded="true" signature="287:7856" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="304:695" ph="/// Realiza busca binária iterativa no array informado, buscando pelo ... " />
+            <marker date="1562773351678" expanded="false" signature="746:820" ph="{...}" />
+            <marker date="1562773351678" expanded="false" signature="889:1359" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="928:1325" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="1028:1096" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="1149:1219" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="1240:1311" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="1369:1760" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
+            <marker date="1562773351678" expanded="true" signature="1820:1899" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="1978:2530" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="2013:2068" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="2147:2203" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="2220:2507" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="2270:2371" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="2392:2493" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="2540:2968" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
+            <marker date="1562773351678" expanded="false" signature="3061:3273" ph="{...}" />
+            <marker date="1562773351678" expanded="false" signature="3387:4094" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="3546:3601" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="3680:3736" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="3753:4084" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="3803:3926" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="3947:4070" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="4104:4421" ph="/// Conta quantos elementos do vetor ordenado arr são menores que key. ... " />
+            <marker date="1562773351678" expanded="true" signature="4479:4556" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="4566:5152" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
+            <marker date="1562773351678" expanded="true" signature="5232:5665" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="5273:5327" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="5375:5435" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="5513:5602" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="5683:6000" ph="/// Conta quantos elementos do vetor ordenado arr são maiores que key. ... " />
+            <marker date="1562773351678" expanded="true" signature="6058:6151" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="6169:6753" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
+            <marker date="1562773351678" expanded="false" signature="6834:7384" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="6876:6933" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="6973:7038" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="7085:7140" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="7231:7321" ph="{...}" />
+            <marker date="1562773351678" expanded="true" signature="7394:7690" ph="/// Conta quantos elementos no vetor ordenado são iguais a key. ... " />
+            <marker date="1562773351678" expanded="true" signature="7742:7841" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
+          <folding>
+            <marker date="1562773392751" expanded="true" signature="45:1258" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="52:163" ph="/// Classe com métodos estáticos para o cálculo da distribuição Bernoulli. ... " />
+            <marker date="1562773392751" expanded="true" signature="202:1256" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="316:480" ph="/// Cria um objeto que representa uma distribuição de probabilidades de Bernoulli. ... " />
+            <marker date="1562773392751" expanded="true" signature="527:874" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="785:864" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="884:1087" ph="/// Indica o resultado de um evento de Bernoulli com probabilidade de sucesso p. ... " />
+            <marker date="1562773392751" expanded="true" signature="1119:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
+          <folding>
+            <marker date="1562773576001" expanded="false" signature="6:131" ph="..." />
+            <marker date="1562773576001" expanded="true" signature="163:3928" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="170:255" ph="/// Classe para a resolução do exercício 1.1.31. ... " />
+            <marker date="1562773576001" expanded="true" signature="290:3926" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="561:836" ph="/// Cria um objeto responsável por gerar a imagem conforme enunciado do exercício. ... " />
+            <marker date="1562773576001" expanded="true" signature="886:954" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="972:1128" ph="/// Gera a imagem conforme o enunciado. ... " />
+            <marker date="1562773576001" expanded="true" signature="1168:1389" ph="{...}" />
+            <marker date="1562773576001" expanded="false" signature="1432:2004" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="1579:1737" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="1778:1966" ph="{...}" />
+            <marker date="1562773576001" expanded="false" signature="2076:2397" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="2472:3076" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="2693:3038" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="2755:3024" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="2820:3006" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="3182:3768" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="3262:3758" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="3422:3560" ph="{...}" />
+            <marker date="1562773576001" expanded="true" signature="3623:3744" ph="{...}" />
+            <marker date="1562773576001" expanded="false" signature="3826:3893" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+          <folding>
+            <marker date="1562773608301" expanded="true" signature="45:2204" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="52:165" ph="/// Representa uma distribuição de probabilidades para a soma de dois dados. ... " />
+            <marker date="1562773608301" expanded="true" signature="204:2202" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="300:454" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
+            <marker date="1562773608301" expanded="true" signature="491:544" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="562:921" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
+            <marker date="1562773608301" expanded="true" signature="978:1128" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="1023:1077" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="1146:1394" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
+            <marker date="1562773608301" expanded="true" signature="1444:1508" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="1551:1610" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="1667:2196" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="1716:1774" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="1883:1941" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="1992:2160" ph="{...}" />
+            <marker date="1562773608301" expanded="true" signature="2076:2146" ph="{...}" />
           </folding>
         </state>
       </provider>
