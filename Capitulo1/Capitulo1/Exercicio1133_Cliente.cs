@@ -146,7 +146,7 @@ namespace Capitulo1_Cliente
             Console.Write("Digite o número de colunas da matriz: ");
             int numColunas = Convert.ToInt32(Console.ReadLine());
 
-            double[][] matriz = Matrix.InicializarMatriz(numLinhas, numColunas);
+            double[][] matriz = Matrix.InicializarMatriz<double>(numLinhas, numColunas);
 
             for (int i = 0; i < numLinhas; i++)
             {

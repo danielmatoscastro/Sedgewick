@@ -11,7 +11,6 @@ namespace Capitulo1_Biblioteca
     /// </summary>
     public class Vetor
     {
-
         /// <summary>
         /// Remove elementos duplicados em um vetor.
         /// </summary>
@@ -39,8 +38,26 @@ namespace Capitulo1_Biblioteca
             Array.Resize<T>(ref novoVetor, unicos);
 
             return novoVetor;
-        } 
-        
-        
+        }
+
+        /// <summary>
+        /// Embaralha os elementos de um vetor (IN-PLACE).
+        /// </summary>
+        /// <param name="elementos">Vetor a ser embaralhado.</param>
+        /// <typeparam name="T">Tipo dos elementos do vetor.</typeparam>
+        public static void Shuffle<T>(T[] elementos)
+        {
+            Random random = new Random(DateTime.Now.Millisecond);
+            int N = elementos.Length;
+
+            for (int i = 0; i < N; i++)
+            {
+                int c = i + random.Next(N - i);
+
+                T temp = elementos[i];
+                elementos[i] = elementos[c];
+                elementos[c] = temp;
+            }
+        }
     }
 }

@@ -41,7 +41,7 @@ namespace Capitulo1_Biblioteca
                 throw new ArgumentException("As matrizes informadas devem ser quadradas e de mesma ordem.");
             }
 
-            double[][] resultado = InicializarMatriz(N, N);
+            double[][] resultado = InicializarMatriz<double>(N, N);
 
             for (int i = 0; i < N; i++)
             {
@@ -87,12 +87,12 @@ namespace Capitulo1_Biblioteca
         /// <param name="numLinhas">Número de linhas da matriz.</param>
         /// <param name="numColunas">Número de colunas da matriz.</param>
         /// <returns>Matriz[numLinhas][numColunas]</returns>
-        public static double[][] InicializarMatriz(int numLinhas, int numColunas)
+        public static T[][] InicializarMatriz<T>(int numLinhas, int numColunas)
         {
-            double[][] matriz = new double[numLinhas][];
+            T[][] matriz = new T[numLinhas][];
             for (int i = 0; i < numLinhas; i++)
             {
-                matriz[i] = new double[numColunas];
+                matriz[i] = new T[numColunas];
             }
 
             return matriz;
@@ -108,7 +108,7 @@ namespace Capitulo1_Biblioteca
             int numLinhas = a[0].Length;
             int numColunas = a.Length;
 
-            double[][] transposta = InicializarMatriz(numLinhas, numColunas);
+            double[][] transposta = InicializarMatriz<double>(numLinhas, numColunas);
 
             for (int i = 0; i < numLinhas; i++)
             {

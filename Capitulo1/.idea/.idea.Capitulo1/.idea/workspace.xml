@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1136_Cliente.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +35,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="75">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -44,193 +44,90 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+            <state relative-caret-position="44">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
               <folding>
-                <marker date="1562772424167" expanded="false" signature="6:115" ph="..." />
-                <marker date="1562772424167" expanded="true" signature="147:1219" ph="{...}" />
-                <marker date="1562772424167" expanded="true" signature="154:252" ph="/// Classe com métodos estáticos para manipulação de vetores. ... " />
-                <marker date="1562772424167" expanded="true" signature="275:1217" ph="{...}" />
-                <marker date="1562772424167" expanded="true" signature="291:640" ph="/// Remove elementos duplicados em um vetor. ... " />
-                <marker date="1562772424167" expanded="false" signature="701:1192" ph="{...}" />
-                <marker date="1562772424167" expanded="true" signature="890:1098" ph="{...}" />
-                <marker date="1562772424167" expanded="true" signature="964:1084" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="36" column="63" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="63" />
-              <folding>
-                <marker date="1562773576001" expanded="false" signature="6:131" ph="..." />
-                <marker date="1562773576001" expanded="true" signature="163:3928" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="170:255" ph="/// Classe para a resolução do exercício 1.1.31. ... " />
-                <marker date="1562773576001" expanded="true" signature="290:3926" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="561:836" ph="/// Cria um objeto responsável por gerar a imagem conforme enunciado do exercício. ... " />
-                <marker date="1562773576001" expanded="true" signature="886:954" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="972:1128" ph="/// Gera a imagem conforme o enunciado. ... " />
-                <marker date="1562773576001" expanded="true" signature="1168:1389" ph="{...}" />
-                <marker date="1562773576001" expanded="false" signature="1432:2004" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="1579:1737" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="1778:1966" ph="{...}" />
-                <marker date="1562773576001" expanded="false" signature="2076:2397" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="2472:3076" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="2693:3038" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="2755:3024" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="2820:3006" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="3182:3768" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="3262:3758" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="3422:3560" ph="{...}" />
-                <marker date="1562773576001" expanded="true" signature="3623:3744" ph="{...}" />
-                <marker date="1562773576001" expanded="false" signature="3826:3893" ph="{...}" />
+                <marker date="1562783119087" expanded="false" signature="6:115" ph="..." />
+                <marker date="1562783119087" expanded="true" signature="147:1862" ph="{...}" />
+                <marker date="1562783119087" expanded="true" signature="154:252" ph="/// Classe com métodos estáticos para manipulação de vetores. ... " />
+                <marker date="1562783119087" expanded="true" signature="275:1860" ph="{...}" />
+                <marker date="1562783119087" expanded="true" signature="290:639" ph="/// Remove elementos duplicados em um vetor. ... " />
+                <marker date="1562783119087" expanded="false" signature="700:1191" ph="{...}" />
+                <marker date="1562783119087" expanded="true" signature="889:1097" ph="{...}" />
+                <marker date="1562783119087" expanded="true" signature="963:1083" ph="{...}" />
+                <marker date="1562783119087" expanded="true" signature="1201:1438" ph="/// Embaralha os elementos de um vetor (IN-PLACE). ... " />
+                <marker date="1562783119087" expanded="true" signature="1491:1854" ph="{...}" />
+                <marker date="1562783119087" expanded="true" signature="1646:1844" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
+        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1136_Cliente.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+            <state relative-caret-position="213">
+              <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
-                <marker date="1562773608301" expanded="true" signature="45:2204" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="52:165" ph="/// Representa uma distribuição de probabilidades para a soma de dois dados. ... " />
-                <marker date="1562773608301" expanded="true" signature="204:2202" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="300:454" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
-                <marker date="1562773608301" expanded="true" signature="491:544" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="562:921" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
-                <marker date="1562773608301" expanded="true" signature="978:1128" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="1023:1077" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="1146:1394" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
-                <marker date="1562773608301" expanded="true" signature="1444:1508" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="1551:1610" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="1667:2196" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="1716:1774" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="1883:1941" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="1992:2160" ph="{...}" />
-                <marker date="1562773608301" expanded="true" signature="2076:2146" ph="{...}" />
+                <marker date="1562783682444" expanded="true" signature="6:41" ph="..." />
+                <marker date="1562783682444" expanded="true" signature="70:1506" ph="{...}" />
+                <marker date="1562783682444" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.36. ... " />
+                <marker date="1562783682444" expanded="true" signature="189:1504" ph="{...}" />
+                <marker date="1562783682444" expanded="true" signature="235:1060" ph="{...}" />
+                <marker date="1562783682444" expanded="true" signature="665:894" ph="{...}" />
+                <marker date="1562783682444" expanded="true" signature="1131:1309" ph="{...}" />
+                <marker date="1562783682444" expanded="true" signature="1190:1299" ph="{...}" />
+                <marker date="1562783682444" expanded="false" signature="1373:1498" ph="{...}" />
+                <marker date="1562783682444" expanded="true" signature="1432:1488" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="94" column="73" lean-forward="true" selection-start-line="94" selection-start-column="73" selection-end-line="94" selection-end-column="73" />
+            <state relative-caret-position="-867">
+              <caret line="110" column="61" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
               <folding>
-                <marker date="1562772464116" expanded="true" signature="6:165" ph="..." />
-                <marker date="1562772464116" expanded="true" signature="197:6043" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="204:303" ph="/// Classe com métodos estáticos para o cálculo de histograma. ... " />
-                <marker date="1562772464116" expanded="true" signature="331:6041" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="346:816" ph="/// Recebe uma amostra de inteiros e um valor limite M. ... " />
-                <marker date="1562772464116" expanded="false" signature="874:1274" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="1073:1232" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="1138:1218" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="1284:1726" ph="/// Recebe uma amostra de doubles no intervalo (l, r). Calcula o histograma da amostra, ... " />
-                <marker date="1562772464116" expanded="true" signature="1810:2101" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="1913:2059" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="2111:2611" ph="/// Dado um elemento de uma amostra no intervalo (l, r) dividida em N bins, ... " />
-                <marker date="1562772464116" expanded="true" signature="2703:2850" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="2860:3240" ph="/// Calcula o tamanho de um bin para uma amostra no intervalo (l, r) dividida em N bins. ... " />
-                <marker date="1562772464116" expanded="true" signature="3318:3384" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="3394:3882" ph="/// Dado uma amostra no intervalo (l, r), plota seu histograma dividido em N bins. ... " />
-                <marker date="1562772464116" expanded="true" signature="3963:5007" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="4436:4918" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="4640:4904" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="4722:4885" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="5017:5526" ph="/// Dado um histograma de uma amostra no intervalo (l, r) dividido em N bins, ... " />
-                <marker date="1562772464116" expanded="false" signature="5631:6035" ph="{...}" />
-                <marker date="1562772464116" expanded="true" signature="5824:5990" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="767">
-              <caret line="59" column="32" selection-start-line="59" selection-start-column="32" selection-end-line="59" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="200" column="51" selection-start-line="200" selection-start-column="51" selection-end-line="200" selection-end-column="51" />
-              <folding>
-                <marker date="1562773351678" expanded="true" signature="6:115" ph="..." />
-                <marker date="1562773351678" expanded="true" signature="147:7858" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="154:257" ph="/// Classe com métodos estáticos para realização de busca binária. ... " />
-                <marker date="1562773351678" expanded="true" signature="287:7856" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="304:695" ph="/// Realiza busca binária iterativa no array informado, buscando pelo ... " />
-                <marker date="1562773351678" expanded="false" signature="746:820" ph="{...}" />
-                <marker date="1562773351678" expanded="false" signature="889:1359" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="928:1325" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1028:1096" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1149:1219" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1240:1311" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1369:1760" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
-                <marker date="1562773351678" expanded="true" signature="1820:1899" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1978:2530" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2013:2068" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2147:2203" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2220:2507" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2270:2371" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2392:2493" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2540:2968" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
-                <marker date="1562773351678" expanded="false" signature="3061:3273" ph="{...}" />
-                <marker date="1562773351678" expanded="false" signature="3387:4094" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3546:3601" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3680:3736" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3753:4084" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3803:3926" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3947:4070" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="4104:4421" ph="/// Conta quantos elementos do vetor ordenado arr são menores que key. ... " />
-                <marker date="1562773351678" expanded="true" signature="4479:4556" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="4566:5152" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
-                <marker date="1562773351678" expanded="true" signature="5232:5665" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5273:5327" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5375:5435" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5513:5602" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5683:6000" ph="/// Conta quantos elementos do vetor ordenado arr são maiores que key. ... " />
-                <marker date="1562773351678" expanded="true" signature="6058:6151" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="6169:6753" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
-                <marker date="1562773351678" expanded="false" signature="6834:7384" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="6876:6933" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="6973:7038" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="7085:7140" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="7231:7321" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="7394:7690" ph="/// Conta quantos elementos no vetor ordenado são iguais a key. ... " />
-                <marker date="1562773351678" expanded="true" signature="7742:7841" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
-              <folding>
-                <marker date="1562773392751" expanded="true" signature="45:1258" ph="{...}" />
-                <marker date="1562773392751" expanded="true" signature="52:163" ph="/// Classe com métodos estáticos para o cálculo da distribuição Bernoulli. ... " />
-                <marker date="1562773392751" expanded="true" signature="202:1256" ph="{...}" />
-                <marker date="1562773392751" expanded="true" signature="316:480" ph="/// Cria um objeto que representa uma distribuição de probabilidades de Bernoulli. ... " />
-                <marker date="1562773392751" expanded="true" signature="527:874" ph="{...}" />
-                <marker date="1562773392751" expanded="true" signature="785:864" ph="{...}" />
-                <marker date="1562773392751" expanded="true" signature="884:1087" ph="/// Indica o resultado de um evento de Bernoulli com probabilidade de sucesso p. ... " />
-                <marker date="1562773392751" expanded="true" signature="1119:1250" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="45:6920" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="52:167" ph="/// Classe com métodos estáticos para operações envolvendo matrizes e vetores. ... " />
+                <marker date="1562783104223" expanded="true" signature="191:6918" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="206:471" ph="/// Calcula o produto escalar de dois vetores. ... " />
+                <marker date="1562783104223" expanded="false" signature="528:743" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="632:702" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="753:1137" ph="/// Calcula o produto matricial de duas matrizes quadradas de mesma ordem. ... " />
+                <marker date="1562783104223" expanded="true" signature="1203:1874" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="1324:1461" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="1571:1833" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="1629:1819" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="1695:1801" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="1884:2189" ph="/// Valida se a matriz informada é quadrada de ordem N. ... " />
+                <marker date="1562783104223" expanded="true" signature="2260:2594" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="2306:2364" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="2417:2558" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="2474:2544" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="2613:2916" ph="/// Cria uma matriz de double do tamanho informado. ... " />
+                <marker date="1562783104223" expanded="true" signature="2996:3214" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="3101:3176" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="3224:3439" ph="/// Faz a transposta da matriz informada. ... " />
+                <marker date="1562783104223" expanded="true" signature="3496:3929" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="3722:3887" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="3789:3873" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="3947:4300" ph="/// Realiza a multiplicação entre uma matriz e um vetor. ... " />
+                <marker date="1562783104223" expanded="true" signature="4362:4911" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="4420:4539" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="4700:4870" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="4768:4856" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="4929:5219" ph="/// Verifica se a multiplicação entre matriz e vetor é possível. ... " />
+                <marker date="1562783104223" expanded="false" signature="5297:5446" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="5456:5774" ph="/// Realiza a multiplicação entre um vetor e uma matriz. ... " />
+                <marker date="1562783104223" expanded="false" signature="5836:6388" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="5894:6013" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="6177:6347" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="6245:6333" ph="{...}" />
+                <marker date="1562783104223" expanded="true" signature="6398:6688" ph="/// Verifica se a multiplicação entre vetor e matriz é possível. ... " />
+                <marker date="1562783104223" expanded="false" signature="6766:6912" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -273,6 +170,7 @@
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1130_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1136_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -287,19 +185,20 @@
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConections.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1131_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosAproximada.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1135_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Histograma.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/RandomConnections.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
+        <option value="$PROJECT_DIR$/Capitulo1/Exercicio1136_Cliente.cs" />
       </list>
     </option>
   </component>
@@ -334,7 +233,7 @@
             <path>
               <item name="" type="784c90a0:SolutionExplorerRootNode" />
               <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Capitulo1_Biblioteca" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Capitulo1_Cliente" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -405,12 +304,12 @@
       <workItem from="1562344949786" duration="23860000" />
       <workItem from="1562690612125" duration="53000" />
       <workItem from="1562698473425" duration="5247000" />
-      <workItem from="1562729311614" duration="8332000" />
+      <workItem from="1562729311614" duration="11302000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61306000" />
+    <option name="totallyTimeSpent" value="64276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,17 +338,17 @@
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" weight="0.39739415" />
+      <window_info active="true" anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" visible="true" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
       <window_info anchor="bottom" id="Errors In Solution" order="15" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Build" order="16" sideWeight="0.4892942" visible="true" weight="0.33387622" />
+      <window_info anchor="bottom" id="Build" order="16" sideWeight="0.4892942" weight="0.33387622" />
       <window_info anchor="right" id="Unit Tests Coverage" order="0" weight="0.3298969" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.2482157" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.21649484" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -823,84 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1656">
-          <caret line="127" column="42" lean-forward="true" selection-start-line="127" selection-start-column="42" selection-end-line="127" selection-end-column="42" />
-          <folding>
-            <marker date="1562703276912" expanded="true" signature="45:6921" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="52:167" ph="/// Classe com métodos estáticos para operações envolvendo matrizes e vetores. ... " />
-            <marker date="1562703276912" expanded="true" signature="191:6919" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="206:471" ph="/// Calcula o produto escalar de dois vetores. ... " />
-            <marker date="1562703276912" expanded="false" signature="528:743" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="632:702" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="753:1137" ph="/// Calcula o produto matricial de duas matrizes quadradas de mesma ordem. ... " />
-            <marker date="1562703276912" expanded="true" signature="1203:1866" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="1324:1461" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="1563:1825" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="1621:1811" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="1687:1793" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="1876:2181" ph="/// Valida se a matriz informada é quadrada de ordem N. ... " />
-            <marker date="1562703276912" expanded="true" signature="2252:2586" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="2298:2356" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="2409:2550" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="2466:2536" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="2605:2908" ph="/// Cria uma matriz de double do tamanho informado. ... " />
-            <marker date="1562703276912" expanded="false" signature="2990:3223" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="3105:3185" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="3233:3448" ph="/// Faz a transposta da matriz informada. ... " />
-            <marker date="1562703276912" expanded="false" signature="3505:3930" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="3723:3888" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="3790:3874" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="3948:4301" ph="/// Realiza a multiplicação entre uma matriz e um vetor. ... " />
-            <marker date="1562703276912" expanded="true" signature="4363:4912" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="4421:4540" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="4701:4871" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="4769:4857" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="4930:5220" ph="/// Verifica se a multiplicação entre matriz e vetor é possível. ... " />
-            <marker date="1562703276912" expanded="false" signature="5298:5447" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="5457:5775" ph="/// Realiza a multiplicação entre um vetor e uma matriz. ... " />
-            <marker date="1562703276912" expanded="false" signature="5837:6389" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="5895:6014" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="6178:6348" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="6246:6334" ph="{...}" />
-            <marker date="1562703276912" expanded="true" signature="6399:6689" ph="/// Verifica se a multiplicação entre vetor e matriz é possível. ... " />
-            <marker date="1562703276912" expanded="false" signature="6767:6913" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="56" column="26" selection-start-line="56" selection-start-column="26" selection-end-line="56" selection-end-column="26" />
-          <folding>
-            <marker date="1562702738963" expanded="true" signature="6:41" ph="..." />
-            <marker date="1562702738963" expanded="true" signature="70:5262" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="77:157" ph="/// Classe cliente para o exercício 1.1.33. ... " />
-            <marker date="1562702738963" expanded="true" signature="196:5260" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="242:623" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="268:422" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="455:530" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="550:613" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="689:1333" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="726:1323" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="1372:1448" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="1494:1874" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="1924:2323" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="2373:2772" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="2814:3122" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="3173:3602" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="3648:3991" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="4046:4757" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="4455:4719" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="4522:4705" ph="{...}" />
-            <marker date="1562702738963" expanded="false" signature="4801:5254" ph="{...}" />
-            <marker date="1562702738963" expanded="true" signature="5057:5217" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDadosExata.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="206">
@@ -963,30 +784,6 @@
             <marker date="1561512425429" expanded="true" signature="310:704" ph="/// Gera um array de inteiros aleatórios. ... " />
             <marker date="1561512425429" expanded="true" signature="769:1023" ph="{...}" />
             <marker date="1561512425429" expanded="true" signature="902:984" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
-          <folding>
-            <marker date="1562772424167" expanded="false" signature="6:115" ph="..." />
-            <marker date="1562772424167" expanded="true" signature="147:1219" ph="{...}" />
-            <marker date="1562772424167" expanded="true" signature="154:252" ph="/// Classe com métodos estáticos para manipulação de vetores. ... " />
-            <marker date="1562772424167" expanded="true" signature="275:1217" ph="{...}" />
-            <marker date="1562772424167" expanded="true" signature="291:640" ph="/// Remove elementos duplicados em um vetor. ... " />
-            <marker date="1562772424167" expanded="false" signature="701:1192" ph="{...}" />
-            <marker date="1562772424167" expanded="true" signature="890:1098" ph="{...}" />
-            <marker date="1562772424167" expanded="true" signature="964:1084" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1086,19 +883,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs">
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
+        <state relative-caret-position="31">
+          <caret line="69" column="78" selection-start-line="69" selection-start-column="78" selection-end-line="69" selection-end-column="78" />
           <folding>
-            <marker date="1562773392751" expanded="true" signature="45:1258" ph="{...}" />
-            <marker date="1562773392751" expanded="true" signature="52:163" ph="/// Classe com métodos estáticos para o cálculo da distribuição Bernoulli. ... " />
-            <marker date="1562773392751" expanded="true" signature="202:1256" ph="{...}" />
-            <marker date="1562773392751" expanded="true" signature="316:480" ph="/// Cria um objeto que representa uma distribuição de probabilidades de Bernoulli. ... " />
-            <marker date="1562773392751" expanded="true" signature="527:874" ph="{...}" />
-            <marker date="1562773392751" expanded="true" signature="785:864" ph="{...}" />
-            <marker date="1562773392751" expanded="true" signature="884:1087" ph="/// Indica o resultado de um evento de Bernoulli com probabilidade de sucesso p. ... " />
-            <marker date="1562773392751" expanded="true" signature="1119:1250" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="45:2863" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="52:165" ph="/// Representa uma distribuição de probabilidades para a soma de dois dados. ... " />
+            <marker date="1562773790651" expanded="true" signature="204:2861" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="219:292" ph="/// Número de lados do dado. ... " />
+            <marker date="1562773790651" expanded="true" signature="349:463" ph="/// Array dist tal que dist[k] é a probabilidade dos dados somarem k. ... " />
+            <marker date="1562773790651" expanded="true" signature="514:668" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
+            <marker date="1562773790651" expanded="true" signature="705:758" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="776:1135" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
+            <marker date="1562773790651" expanded="true" signature="1192:1342" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="1237:1291" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="1360:1608" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
+            <marker date="1562773790651" expanded="true" signature="1658:1722" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="1741:1867" ph="/// Gera um hash code para um objeto SomaDeDados. ... " />
+            <marker date="1562773790651" expanded="true" signature="1909:1968" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="1986:2278" ph="/// Verifica se duas distribuições são iguais (diferem em cada valor por 10e-3 ou menos.)) ... " />
+            <marker date="1562773790651" expanded="true" signature="2326:2855" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="2375:2433" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="2542:2600" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="2651:2819" ph="{...}" />
+            <marker date="1562773790651" expanded="true" signature="2735:2805" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -1133,27 +942,143 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/SomaDeDados.cs">
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/DistribuicaoBernoulli.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="5" column="80" selection-start-line="5" selection-start-column="80" selection-end-line="5" selection-end-column="80" />
+        <state relative-caret-position="147">
+          <caret line="14" column="90" selection-start-line="14" selection-start-column="90" selection-end-line="14" selection-end-column="90" />
           <folding>
-            <marker date="1562773608301" expanded="true" signature="45:2204" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="52:165" ph="/// Representa uma distribuição de probabilidades para a soma de dois dados. ... " />
-            <marker date="1562773608301" expanded="true" signature="204:2202" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="300:454" ph="/// Retorna um vetor dist tal que dist[k] é a probabilidade aproximada dos lançamentos ... " />
-            <marker date="1562773608301" expanded="true" signature="491:544" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="562:921" ph="/// Retorna a probabilidade aproximada dos lançamentos de dois dados somarem K. ... " />
-            <marker date="1562773608301" expanded="true" signature="978:1128" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="1023:1077" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="1146:1394" ph="/// Verifica se o valor informado é uma soma válida para dois dados. ... " />
-            <marker date="1562773608301" expanded="true" signature="1444:1508" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="1551:1610" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="1667:2196" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="1716:1774" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="1883:1941" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="1992:2160" ph="{...}" />
-            <marker date="1562773608301" expanded="true" signature="2076:2146" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="45:1258" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="52:163" ph="/// Classe com métodos estáticos para o cálculo da distribuição Bernoulli. ... " />
+            <marker date="1562773392751" expanded="true" signature="202:1256" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="316:480" ph="/// Cria um objeto que representa uma distribuição de probabilidades de Bernoulli. ... " />
+            <marker date="1562773392751" expanded="true" signature="527:874" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="785:864" ph="{...}" />
+            <marker date="1562773392751" expanded="true" signature="884:1087" ph="/// Indica o resultado de um evento de Bernoulli com probabilidade de sucesso p. ... " />
+            <marker date="1562773392751" expanded="true" signature="1119:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Matrix.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867">
+          <caret line="110" column="61" selection-start-line="110" selection-start-column="61" selection-end-line="110" selection-end-column="61" />
+          <folding>
+            <marker date="1562783104223" expanded="true" signature="45:6920" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="52:167" ph="/// Classe com métodos estáticos para operações envolvendo matrizes e vetores. ... " />
+            <marker date="1562783104223" expanded="true" signature="191:6918" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="206:471" ph="/// Calcula o produto escalar de dois vetores. ... " />
+            <marker date="1562783104223" expanded="false" signature="528:743" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="632:702" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="753:1137" ph="/// Calcula o produto matricial de duas matrizes quadradas de mesma ordem. ... " />
+            <marker date="1562783104223" expanded="true" signature="1203:1874" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="1324:1461" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="1571:1833" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="1629:1819" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="1695:1801" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="1884:2189" ph="/// Valida se a matriz informada é quadrada de ordem N. ... " />
+            <marker date="1562783104223" expanded="true" signature="2260:2594" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="2306:2364" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="2417:2558" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="2474:2544" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="2613:2916" ph="/// Cria uma matriz de double do tamanho informado. ... " />
+            <marker date="1562783104223" expanded="true" signature="2996:3214" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="3101:3176" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="3224:3439" ph="/// Faz a transposta da matriz informada. ... " />
+            <marker date="1562783104223" expanded="true" signature="3496:3929" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="3722:3887" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="3789:3873" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="3947:4300" ph="/// Realiza a multiplicação entre uma matriz e um vetor. ... " />
+            <marker date="1562783104223" expanded="true" signature="4362:4911" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="4420:4539" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="4700:4870" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="4768:4856" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="4929:5219" ph="/// Verifica se a multiplicação entre matriz e vetor é possível. ... " />
+            <marker date="1562783104223" expanded="false" signature="5297:5446" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="5456:5774" ph="/// Realiza a multiplicação entre um vetor e uma matriz. ... " />
+            <marker date="1562783104223" expanded="false" signature="5836:6388" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="5894:6013" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="6177:6347" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="6245:6333" ph="{...}" />
+            <marker date="1562783104223" expanded="true" signature="6398:6688" ph="/// Verifica se a multiplicação entre vetor e matriz é possível. ... " />
+            <marker date="1562783104223" expanded="false" signature="6766:6912" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1133_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="177" column="5" lean-forward="true" selection-start-line="177" selection-start-column="5" selection-end-line="177" selection-end-column="5" />
+          <folding>
+            <marker date="1562783136983" expanded="true" signature="6:41" ph="..." />
+            <marker date="1562783136983" expanded="true" signature="70:5270" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="77:157" ph="/// Classe cliente para o exercício 1.1.33. ... " />
+            <marker date="1562783136983" expanded="true" signature="196:5268" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="242:623" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="268:422" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="455:530" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="550:613" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="689:1333" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="726:1323" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="1372:1448" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="1494:1874" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="1924:2323" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="2373:2772" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="2814:3122" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="3173:3602" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="3648:3991" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="4046:4765" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="4463:4727" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="4530:4713" ph="{...}" />
+            <marker date="1562783136983" expanded="false" signature="4809:5262" ph="{...}" />
+            <marker date="1562783136983" expanded="true" signature="5065:5225" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+          <folding>
+            <marker date="1562783119087" expanded="false" signature="6:115" ph="..." />
+            <marker date="1562783119087" expanded="true" signature="147:1862" ph="{...}" />
+            <marker date="1562783119087" expanded="true" signature="154:252" ph="/// Classe com métodos estáticos para manipulação de vetores. ... " />
+            <marker date="1562783119087" expanded="true" signature="275:1860" ph="{...}" />
+            <marker date="1562783119087" expanded="true" signature="290:639" ph="/// Remove elementos duplicados em um vetor. ... " />
+            <marker date="1562783119087" expanded="false" signature="700:1191" ph="{...}" />
+            <marker date="1562783119087" expanded="true" signature="889:1097" ph="{...}" />
+            <marker date="1562783119087" expanded="true" signature="963:1083" ph="{...}" />
+            <marker date="1562783119087" expanded="true" signature="1201:1438" ph="/// Embaralha os elementos de um vetor (IN-PLACE). ... " />
+            <marker date="1562783119087" expanded="true" signature="1491:1854" ph="{...}" />
+            <marker date="1562783119087" expanded="true" signature="1646:1844" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1136_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="26" column="13" lean-forward="true" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <marker date="1562783682444" expanded="true" signature="6:41" ph="..." />
+            <marker date="1562783682444" expanded="true" signature="70:1506" ph="{...}" />
+            <marker date="1562783682444" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.36. ... " />
+            <marker date="1562783682444" expanded="true" signature="189:1504" ph="{...}" />
+            <marker date="1562783682444" expanded="true" signature="235:1060" ph="{...}" />
+            <marker date="1562783682444" expanded="true" signature="665:894" ph="{...}" />
+            <marker date="1562783682444" expanded="true" signature="1131:1309" ph="{...}" />
+            <marker date="1562783682444" expanded="true" signature="1190:1299" ph="{...}" />
+            <marker date="1562783682444" expanded="false" signature="1373:1498" ph="{...}" />
+            <marker date="1562783682444" expanded="true" signature="1432:1488" ph="{...}" />
           </folding>
         </state>
       </provider>
