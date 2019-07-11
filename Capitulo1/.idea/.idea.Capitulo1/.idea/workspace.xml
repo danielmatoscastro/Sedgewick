@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Point2DBook.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,25 +39,26 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+            <state>
+              <caret lean-forward="true" />
               <folding>
-                <marker date="1562877133679" expanded="true" signature="6:79" ph="..." />
-                <marker date="1562877133679" expanded="true" signature="108:1957" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="115:187" ph="/// Cliente para o exercício 1.2.1. ... " />
-                <marker date="1562877133679" expanded="true" signature="225:1955" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="271:1949" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="297:1747" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="622:749" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="891:1215" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="969:1197" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="1319:1635" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="1385:1617" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="1480:1595" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="1780:1855" ph="{...}" />
-                <marker date="1562877133679" expanded="true" signature="1875:1938" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="45:2015" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="52:140" ph="/// Classe que representa um intervalo em uma reta. ... " />
+                <marker date="1562883564504" expanded="true" signature="168:2013" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="243:322" ph="/// Extremo esquerdo do intervalo. ... " />
+                <marker date="1562883564504" expanded="true" signature="349:402" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="412:490" ph="/// Extremo direito do intervalo. ... " />
+                <marker date="1562883564504" expanded="true" signature="518:572" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="582:652" ph="/// Tamanho do intervalo. ... " />
+                <marker date="1562883564504" expanded="true" signature="681:752" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="762:998" ph="/// Objeto que representa um intervalo em uma reta. ... " />
+                <marker date="1562883564504" expanded="true" signature="1051:1133" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="1143:1389" ph="/// Verifica se o valor informado está dentro do intervalo. ... " />
+                <marker date="1562883564504" expanded="true" signature="1428:1492" ph="{...}" />
+                <marker date="1562883564504" expanded="true" signature="1502:1865" ph="/// Verifica se o intervalo informado tem algum ponto em comum com este intervalo. ... " />
+                <marker date="1562883564504" expanded="true" signature="1913:2007" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -104,6 +103,7 @@
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1139_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Point2DBook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -137,6 +137,7 @@
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Point2D.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs" />
       </list>
     </option>
   </component>
@@ -160,7 +161,6 @@
     </navigator>
     <panes>
       <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -173,16 +173,12 @@
               <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Capitulo1_Biblioteca" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Capitulo1_Cliente" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -252,11 +248,12 @@
       <workItem from="1562804800355" duration="1482000" />
       <workItem from="1562871330439" duration="2578000" />
       <workItem from="1562874899273" duration="2264000" />
+      <workItem from="1562882680740" duration="892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74288000" />
+    <option name="totallyTimeSpent" value="75180000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,6 +266,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="25" width="1307" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -294,7 +292,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.23156226" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.23552737" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -1159,6 +1157,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1562882859016" expanded="true" signature="6:79" ph="..." />
+            <marker date="1562882859016" expanded="true" signature="108:2382" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="115:187" ph="/// Cliente para o exercício 1.2.1. ... " />
+            <marker date="1562882859016" expanded="true" signature="225:2380" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="271:1081" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="297:879" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="912:987" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1007:1070" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1165:1596" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1270:1550" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1328:1536" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1415:1518" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1689:2057" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1755:2047" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="1825:2033" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="2120:2374" ph="{...}" />
+            <marker date="1562882859016" expanded="true" signature="2249:2364" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -1166,25 +1190,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs">
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+        <state>
+          <caret lean-forward="true" />
           <folding>
-            <marker date="1562877133679" expanded="true" signature="6:79" ph="..." />
-            <marker date="1562877133679" expanded="true" signature="108:1957" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="115:187" ph="/// Cliente para o exercício 1.2.1. ... " />
-            <marker date="1562877133679" expanded="true" signature="225:1955" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="271:1949" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="297:1747" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="622:749" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="891:1215" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="969:1197" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="1319:1635" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="1385:1617" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="1480:1595" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="1780:1855" ph="{...}" />
-            <marker date="1562877133679" expanded="true" signature="1875:1938" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="45:2015" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="52:140" ph="/// Classe que representa um intervalo em uma reta. ... " />
+            <marker date="1562883564504" expanded="true" signature="168:2013" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="243:322" ph="/// Extremo esquerdo do intervalo. ... " />
+            <marker date="1562883564504" expanded="true" signature="349:402" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="412:490" ph="/// Extremo direito do intervalo. ... " />
+            <marker date="1562883564504" expanded="true" signature="518:572" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="582:652" ph="/// Tamanho do intervalo. ... " />
+            <marker date="1562883564504" expanded="true" signature="681:752" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="762:998" ph="/// Objeto que representa um intervalo em uma reta. ... " />
+            <marker date="1562883564504" expanded="true" signature="1051:1133" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="1143:1389" ph="/// Verifica se o valor informado está dentro do intervalo. ... " />
+            <marker date="1562883564504" expanded="true" signature="1428:1492" ph="{...}" />
+            <marker date="1562883564504" expanded="true" signature="1502:1865" ph="/// Verifica se o intervalo informado tem algum ponto em comum com este intervalo. ... " />
+            <marker date="1562883564504" expanded="true" signature="1913:2007" ph="{...}" />
           </folding>
         </state>
       </provider>

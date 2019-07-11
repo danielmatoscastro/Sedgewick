@@ -74,6 +74,7 @@
     <Compile Include="Histograma.cs" />
     <Compile Include="ImpressorMatricial.cs" />
     <Compile Include="ImpressorVetorial.cs" />
+    <Compile Include="Interval1D.cs" />
     <Compile Include="LeitorDeLista.cs" />
     <Compile Include="Logaritmo.cs" />
     <Compile Include="Matrix.cs" />
