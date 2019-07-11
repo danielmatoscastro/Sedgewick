@@ -61,6 +61,7 @@
         <e p="ImpressorMatricial.cs" t="Include" />
         <e p="ImpressorVetorial.cs" t="Include" />
         <e p="Interval1D.cs" t="Include" />
+        <e p="Interval2D.cs" t="Include" />
         <e p="LeitorDeLista.cs" t="Include" />
         <e p="Logaritmo.cs" t="Include" />
         <e p="MatplotlibCS" t="Include">

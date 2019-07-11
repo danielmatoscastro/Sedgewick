@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Interval2D.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -59,6 +57,24 @@
                 <marker date="1562883564504" expanded="true" signature="1428:1492" ph="{...}" />
                 <marker date="1562883564504" expanded="true" signature="1502:1865" ph="/// Verifica se o intervalo informado tem algum ponto em comum com este intervalo. ... " />
                 <marker date="1562883564504" expanded="true" signature="1913:2007" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval2D.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+              <folding>
+                <marker date="1562884088498" expanded="true" signature="30:697" ph="{...}" />
+                <marker date="1562884088498" expanded="true" signature="37:128" ph="/// Classe que representa um intervalo em um plano 2D. ... " />
+                <marker date="1562884088498" expanded="true" signature="156:695" ph="{...}" />
+                <marker date="1562884088498" expanded="true" signature="277:345" ph="{...}" />
+                <marker date="1562884088498" expanded="true" signature="375:435" ph="{...}" />
+                <marker date="1562884088498" expanded="true" signature="480:555" ph="{...}" />
+                <marker date="1562884088498" expanded="true" signature="604:689" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -104,6 +120,7 @@
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Point2DBook.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval2D.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -138,6 +155,7 @@
         <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio121_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Interval1D.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Interval2D.cs" />
       </list>
     </option>
   </component>
@@ -248,12 +266,12 @@
       <workItem from="1562804800355" duration="1482000" />
       <workItem from="1562871330439" duration="2578000" />
       <workItem from="1562874899273" duration="2264000" />
-      <workItem from="1562882680740" duration="892000" />
+      <workItem from="1562882680740" duration="1418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75180000" />
+    <option name="totallyTimeSpent" value="75706000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1210,6 +1228,22 @@
             <marker date="1562883564504" expanded="true" signature="1428:1492" ph="{...}" />
             <marker date="1562883564504" expanded="true" signature="1502:1865" ph="/// Verifica se o intervalo informado tem algum ponto em comum com este intervalo. ... " />
             <marker date="1562883564504" expanded="true" signature="1913:2007" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/Interval2D.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="9" lean-forward="true" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+          <folding>
+            <marker date="1562884088498" expanded="true" signature="30:697" ph="{...}" />
+            <marker date="1562884088498" expanded="true" signature="37:128" ph="/// Classe que representa um intervalo em um plano 2D. ... " />
+            <marker date="1562884088498" expanded="true" signature="156:695" ph="{...}" />
+            <marker date="1562884088498" expanded="true" signature="277:345" ph="{...}" />
+            <marker date="1562884088498" expanded="true" signature="375:435" ph="{...}" />
+            <marker date="1562884088498" expanded="true" signature="480:555" ph="{...}" />
+            <marker date="1562884088498" expanded="true" signature="604:689" ph="{...}" />
           </folding>
         </state>
       </provider>
