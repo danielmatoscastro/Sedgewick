@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7320988c-1b78-46ea-99f6-52d8659d285e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1137_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1138_Cliente.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaForcaBruta.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Capitulo1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Capitulo1_Biblioteca.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Capitulo1/Exercicio1139_Cliente.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Capitulo1/Exercicio1139_Cliente.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,121 +31,54 @@
         <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaForcaBruta.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
-              <folding>
-                <marker date="1562784663688" expanded="true" signature="30:780" ph="{...}" />
-                <marker date="1562784663688" expanded="true" signature="37:134" ph="/// Classe com métodos estáticos para busca por força bruta. ... " />
-                <marker date="1562784663688" expanded="true" signature="167:778" ph="{...}" />
-                <marker date="1562784663688" expanded="true" signature="182:505" ph="/// Busca um elemento em um vetor, utilizando força bruta. ... " />
-                <marker date="1562784663688" expanded="true" signature="554:772" ph="{...}" />
-                <marker date="1562784663688" expanded="true" signature="611:738" ph="{...}" />
-                <marker date="1562784663688" expanded="true" signature="658:724" ph="{...}" />
-              </folding>
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1138_Cliente.cs">
+        <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1139_Cliente.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
+            <state relative-caret-position="228">
+              <caret line="69" column="26" lean-forward="true" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
               <folding>
-                <marker date="1562805678461" expanded="true" signature="6:67" ph="..." />
-                <marker date="1562805678461" expanded="true" signature="96:1872" ph="{...}" />
-                <marker date="1562805678461" expanded="true" signature="103:176" ph="/// Cliente para o exercício 1.1.38. ... " />
-                <marker date="1562805678461" expanded="true" signature="215:1870" ph="{...}" />
-                <marker date="1562805678461" expanded="true" signature="261:1864" ph="{...}" />
-                <marker date="1562805678461" expanded="true" signature="287:1663" ph="{...}" />
-                <marker date="1562805678461" expanded="true" signature="929:1026" ph="{...}" />
-                <marker date="1562805678461" expanded="true" signature="1294:1394" ph="{...}" />
-                <marker date="1562805678461" expanded="true" signature="1696:1771" ph="{...}" />
-                <marker date="1562805678461" expanded="true" signature="1791:1854" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="6:41" ph="..." />
+                <marker date="1562873145638" expanded="true" signature="70:2546" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.39. ... " />
+                <marker date="1562873145638" expanded="true" signature="189:2544" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="235:1394" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="261:1143" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="516:1024" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="604:1006" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="1176:1301" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="1321:1384" ph="{...}" />
+                <marker date="1562873145638" expanded="false" signature="1457:1659" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="1519:1649" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="1730:2143" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="1825:1980" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="1883:1966" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="2033:2093" ph="{...}" />
+                <marker date="1562873145638" expanded="false" signature="2224:2538" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="2319:2488" ph="{...}" />
+                <marker date="1562873145638" expanded="true" signature="2396:2474" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs">
+        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/GeradorAleatorio.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+            <state relative-caret-position="105">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
-                <marker date="1561512425429" expanded="false" signature="6:132" ph="..." />
-                <marker date="1561512425429" expanded="true" signature="164:1351" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="171:252" ph="/// Classe para ler uma lista de um arquivo. ... " />
-                <marker date="1561512425429" expanded="true" signature="283:1349" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="337:540" ph="/// Construtor para a classe LeitorDeLista. ... " />
-                <marker date="1561512425429" expanded="true" signature="591:659" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="669:892" ph="/// Lê uma lista de um arquivo. ... " />
-                <marker date="1561512425429" expanded="true" signature="920:1343" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="1018:1333" ph="{...}" />
-                <marker date="1561512425429" expanded="true" signature="1111:1274" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="37">
-              <caret line="200" column="51" selection-start-line="200" selection-start-column="51" selection-end-line="200" selection-end-column="51" />
-              <folding>
-                <marker date="1562773351678" expanded="true" signature="6:115" ph="..." />
-                <marker date="1562773351678" expanded="true" signature="147:7858" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="154:257" ph="/// Classe com métodos estáticos para realização de busca binária. ... " />
-                <marker date="1562773351678" expanded="true" signature="287:7856" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="304:695" ph="/// Realiza busca binária iterativa no array informado, buscando pelo ... " />
-                <marker date="1562773351678" expanded="false" signature="746:820" ph="{...}" />
-                <marker date="1562773351678" expanded="false" signature="889:1359" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="928:1325" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1028:1096" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1149:1219" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1240:1311" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1369:1760" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
-                <marker date="1562773351678" expanded="true" signature="1820:1899" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="1978:2530" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2013:2068" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2147:2203" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2220:2507" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2270:2371" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2392:2493" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="2540:2968" ph="/// Realiza busca binária recursiva no array informado, buscando pelo ... " />
-                <marker date="1562773351678" expanded="false" signature="3061:3273" ph="{...}" />
-                <marker date="1562773351678" expanded="false" signature="3387:4094" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3546:3601" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3680:3736" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3753:4084" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3803:3926" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="3947:4070" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="4104:4421" ph="/// Conta quantos elementos do vetor ordenado arr são menores que key. ... " />
-                <marker date="1562773351678" expanded="true" signature="4479:4556" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="4566:5152" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
-                <marker date="1562773351678" expanded="true" signature="5232:5665" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5273:5327" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5375:5435" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5513:5602" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="5683:6000" ph="/// Conta quantos elementos do vetor ordenado arr são maiores que key. ... " />
-                <marker date="1562773351678" expanded="true" signature="6058:6151" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="6169:6753" ph="/// Busca pela posição que o elemento key deveria ocupar no array. ... " />
-                <marker date="1562773351678" expanded="false" signature="6834:7384" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="6876:6933" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="6973:7038" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="7085:7140" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="7231:7321" ph="{...}" />
-                <marker date="1562773351678" expanded="true" signature="7394:7690" ph="/// Conta quantos elementos no vetor ordenado são iguais a key. ... " />
-                <marker date="1562773351678" expanded="true" signature="7742:7841" ph="{...}" />
+                <marker date="1561512425429" expanded="false" signature="6:115" ph="..." />
+                <marker date="1561512425429" expanded="true" signature="147:1031" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="154:261" ph="/// Classe com métodos estáticos para a geração de números aleatórios. ... " />
+                <marker date="1561512425429" expanded="true" signature="295:1029" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="310:704" ph="/// Gera um array de inteiros aleatórios. ... " />
+                <marker date="1561512425429" expanded="true" signature="769:1023" ph="{...}" />
+                <marker date="1561512425429" expanded="true" signature="902:984" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -193,6 +120,7 @@
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1129_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaForcaBruta.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1138_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1139_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Capitulo1/Exercicio1132_Cliente.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -221,8 +149,9 @@
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/Vetor.cs" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1137_Cliente.cs" />
         <option value="$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaForcaBruta.cs" />
-        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
         <option value="$PROJECT_DIR$/Capitulo1/Exercicio1138_Cliente.cs" />
+        <option value="$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj" />
+        <option value="$PROJECT_DIR$/Capitulo1/Exercicio1139_Cliente.cs" />
       </list>
     </option>
   </component>
@@ -245,11 +174,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Capitulo1_Biblioteca" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Capitulo1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Capitulo1_Cliente" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -317,11 +265,12 @@
       <workItem from="1562729311614" duration="12806000" />
       <workItem from="1562797487771" duration="2184000" />
       <workItem from="1562804800355" duration="1482000" />
+      <workItem from="1562871330439" duration="1813000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69446000" />
+    <option name="totallyTimeSpent" value="71259000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -334,6 +283,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="25" width="1307" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -349,7 +299,7 @@
       <window_info anchor="bottom" id="Message" order="8" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="bottom" id="Run" order="10" weight="0.32899022" />
-      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" weight="0.39739415" />
+      <window_info active="true" anchor="bottom" id="Debug" order="11" sideWeight="0.49722442" visible="true" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" />
@@ -359,7 +309,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.22363204" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.22759715" />
     </layout>
     <layout-to-restore>
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -791,22 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/GeradorAleatorio.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <marker date="1561512425429" expanded="false" signature="6:115" ph="..." />
-            <marker date="1561512425429" expanded="true" signature="147:1031" ph="{...}" />
-            <marker date="1561512425429" expanded="true" signature="154:261" ph="/// Classe com métodos estáticos para a geração de números aleatórios. ... " />
-            <marker date="1561512425429" expanded="true" signature="295:1029" ph="{...}" />
-            <marker date="1561512425429" expanded="true" signature="310:704" ph="/// Gera um array de inteiros aleatórios. ... " />
-            <marker date="1561512425429" expanded="true" signature="769:1023" ph="{...}" />
-            <marker date="1561512425429" expanded="true" signature="902:984" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1.sln">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1064,19 +998,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="51" selection-start-line="5" selection-start-column="51" selection-end-line="5" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaForcaBruta.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
           <folding>
-            <marker date="1562784663688" expanded="true" signature="30:780" ph="{...}" />
             <marker date="1562784663688" expanded="true" signature="37:134" ph="/// Classe com métodos estáticos para busca por força bruta. ... " />
             <marker date="1562784663688" expanded="true" signature="167:778" ph="{...}" />
             <marker date="1562784663688" expanded="true" signature="182:505" ph="/// Busca um elemento em um vetor, utilizando força bruta. ... " />
@@ -1089,7 +1015,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/LeitorDeLista.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="540">
           <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
           <folding>
             <marker date="1561512425429" expanded="false" signature="6:132" ph="..." />
@@ -1108,7 +1034,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/BuscaBinaria.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
+        <state relative-caret-position="1965">
           <caret line="200" column="51" selection-start-line="200" selection-start-column="51" selection-end-line="200" selection-end-column="51" />
           <folding>
             <marker date="1562773351678" expanded="true" signature="6:115" ph="..." />
@@ -1161,7 +1087,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1138_Cliente.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="187">
           <caret line="39" column="17" selection-start-line="39" selection-start-column="17" selection-end-line="39" selection-end-column="17" />
           <folding>
             <marker date="1562805678461" expanded="true" signature="6:67" ph="..." />
@@ -1174,6 +1100,57 @@
             <marker date="1562805678461" expanded="true" signature="1294:1394" ph="{...}" />
             <marker date="1562805678461" expanded="true" signature="1696:1771" ph="{...}" />
             <marker date="1562805678461" expanded="true" signature="1791:1854" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1_Biblioteca/GeradorAleatorio.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1561512425429" expanded="false" signature="6:115" ph="..." />
+            <marker date="1561512425429" expanded="true" signature="147:1031" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="154:261" ph="/// Classe com métodos estáticos para a geração de números aleatórios. ... " />
+            <marker date="1561512425429" expanded="true" signature="295:1029" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="310:704" ph="/// Gera um array de inteiros aleatórios. ... " />
+            <marker date="1561512425429" expanded="true" signature="769:1023" ph="{...}" />
+            <marker date="1561512425429" expanded="true" signature="902:984" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Capitulo1_Cliente.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Capitulo1/Exercicio1139_Cliente.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="69" column="26" lean-forward="true" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding>
+            <marker date="1562873145638" expanded="true" signature="6:41" ph="..." />
+            <marker date="1562873145638" expanded="true" signature="70:2546" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="77:150" ph="/// Cliente para o exercício 1.1.39. ... " />
+            <marker date="1562873145638" expanded="true" signature="189:2544" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="235:1394" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="261:1143" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="516:1024" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="604:1006" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="1176:1301" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="1321:1384" ph="{...}" />
+            <marker date="1562873145638" expanded="false" signature="1457:1659" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="1519:1649" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="1730:2143" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="1825:1980" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="1883:1966" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="2033:2093" ph="{...}" />
+            <marker date="1562873145638" expanded="false" signature="2224:2538" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="2319:2488" ph="{...}" />
+            <marker date="1562873145638" expanded="true" signature="2396:2474" ph="{...}" />
           </folding>
         </state>
       </provider>
