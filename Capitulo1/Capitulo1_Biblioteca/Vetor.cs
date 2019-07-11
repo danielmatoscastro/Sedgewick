@@ -59,5 +59,25 @@ namespace Capitulo1_Biblioteca
                 elementos[c] = temp;
             }
         }
+        
+        /// <summary>
+        /// Embaralha os elementos de um vetor (IN-PLACE).
+        /// </summary>
+        /// <param name="elementos">Vetor a ser embaralhado.</param>
+        /// <typeparam name="T">Tipo dos elementos do vetor.</typeparam>
+        public static void BadShuffle<T>(T[] elementos)
+        {
+            Random random = new Random(DateTime.Now.Millisecond);
+            int N = elementos.Length;
+
+            for (int i = 0; i < N; i++)
+            {
+                int c = random.Next(N);
+
+                T temp = elementos[i];
+                elementos[i] = elementos[c];
+                elementos[c] = temp;
+            }
+        }
     }
 }

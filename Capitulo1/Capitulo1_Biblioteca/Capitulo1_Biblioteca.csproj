@@ -63,6 +63,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BuscaBinaria.cs" />
+    <Compile Include="BuscaForcaBruta.cs" />
     <Compile Include="ConversorDecBin.cs" />
     <Compile Include="DistribuicaoBernoulli.cs" />
     <Compile Include="DistribuicaoBinomial.cs" />
