@@ -35,6 +35,7 @@
         <e p="Exercicio117_Cliente.cs" t="Include" />
         <e p="Exercicio118_Cliente.cs" t="Include" />
         <e p="Exercicio119_Cliente.cs" t="Include" />
+        <e p="Exercicio121_Cliente.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
@@ -75,6 +76,7 @@
         </e>
         <e p="Matrix.cs" t="Include" />
         <e p="MaximoDivisorComum.cs" t="Include" />
+        <e p="Point2DBook.cs" t="Include" />
         <e p="Properties" t="Include">
           <e p="AssemblyInfo.cs" t="Include" />
         </e>

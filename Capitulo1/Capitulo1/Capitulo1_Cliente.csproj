@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net461</TargetFramework>
-    <StartupObject>Capitulo1_Cliente.Exercicio1139_Cliente</StartupObject>
+    <StartupObject>Capitulo1_Cliente.Exercicio121_Cliente</StartupObject>
     <RootNamespace>Capitulo1_Cliente</RootNamespace>
   </PropertyGroup>
 
