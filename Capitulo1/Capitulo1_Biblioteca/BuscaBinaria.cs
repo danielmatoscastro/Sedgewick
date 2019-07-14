@@ -26,7 +26,7 @@ namespace Capitulo1_Biblioteca
             return Rank(key, arr, 0, arr.Length - 1);
         }
 
-        // <summary>
+        /// <summary>
         /// Realiza busca binária iterativa no array informado, buscando pelo
         /// elemento key.
         /// </summary>
