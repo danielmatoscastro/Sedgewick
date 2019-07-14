@@ -67,5 +67,14 @@ namespace Capitulo1_Biblioteca
         {
             return this.Contains(that.left) || this.Contains(that.Right);
         }
+
+        /// <summary>
+        /// Representa o intervalo como uma string.
+        /// </summary>
+        /// <returns>String representando o intervalo.</returns>
+        public override string ToString()
+        {
+            return String.Format("[{0}, {1}]", left, right);
+        }
     }
 }
