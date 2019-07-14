@@ -238,5 +238,56 @@ namespace Capitulo1_Biblioteca
             return arr.Length - RankMaiores(key, arr) - RankMenores(key, arr);
         }
         
+        /// <summary>
+        /// Realiza busca binária iterativa no array informado, buscando pelo
+        /// elemento key. Mantém uma contagem das comparações realizadas.
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <param name="counter">Contador de operações.</param>
+        /// <returns>Retorna a posição do elemento key, ou -1 caso
+        /// o elemento não esteja no array.
+        /// </returns>
+        public static int Rank(int key, int[] arr, Counter counter)
+        {
+            return Rank(key, arr, 0, arr.Length - 1, counter);
+        }
+        
+        /// <summary>
+        /// Realiza busca binária iterativa no array informado, buscando pelo
+        /// elemento key. Mantém uma contagem das comparações realizadas.
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <param name="lo">Menor índice do vetor.</param>
+        /// <param name="hi">Maior índice do vetor.</param>
+        /// <param name="counter">Contador de operações.</param>
+        /// <returns>Retorna a posição do elemento key, ou -1 caso
+        /// o elemento não esteja no array.</returns>
+        private static int Rank(int key, int[] arr, int lo, int hi, Counter counter)
+        {
+            while (lo <= hi)
+            {
+                int mid = ((hi - lo) / 2) + lo;
+
+                counter.Increment();
+                if (arr[mid] == key)
+                {
+                    return mid;
+                }
+                
+                counter.Increment();
+                if (arr[mid] < key)
+                {
+                    lo = mid + 1;
+                }
+                else
+                { 
+                    hi = mid - 1;
+                }
+            }
+
+            return -1;
+        }
     }
 }
