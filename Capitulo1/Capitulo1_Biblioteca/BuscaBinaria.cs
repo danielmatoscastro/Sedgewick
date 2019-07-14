@@ -26,6 +26,17 @@ namespace Capitulo1_Biblioteca
             return Rank(key, arr, 0, arr.Length - 1);
         }
 
+        // <summary>
+        /// Realiza busca binária iterativa no array informado, buscando pelo
+        /// elemento key.
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <param name="lo">Menor índice do vetor.</param>
+        /// <param name="hi">Maior índice do vetor.</param>
+        /// <returns>Retorna a posição do elemento key, ou -1 caso
+        /// o elemento não esteja no array.
+        /// </returns>
         private static int Rank(int key, int[] arr, int lo, int hi)
         {
             while (lo <= hi)
@@ -64,6 +75,17 @@ namespace Capitulo1_Biblioteca
             return RankRecursivo(key, arr, 0, arr.Length);
         }
  
+        /// <summary>
+        /// Realiza busca binária recursiva no array informado, buscando pelo
+        /// elemento key.
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <param name="lo">Menor índice do vetor.</param>
+        /// <param name="hi">Maior índice do vetor.</param>
+        /// <returns>Retorna a posição do elemento key, ou -1 caso
+        /// o elemento não esteja no array.
+        /// </returns>
         private static int RankRecursivo(int key, int[] arr, int lo, int hi)
         {
             if (lo > hi)
@@ -108,7 +130,19 @@ namespace Capitulo1_Biblioteca
 
             return new Tuple<StringBuilder, int>(sb, indice);
         }
-
+        
+        /// <summary>
+        /// Realiza busca binária recursiva no array informado, buscando pelo
+        /// elemento key. Realiza um rastreamento das chamadas recursivas.
+        /// </summary>
+        /// <param name="key">Elemento a ser buscado.</param>
+        /// <param name="arr">Espaço de busca.</param>
+        /// <param name="lo">Menor índice do vetor.</param>
+        /// <param name="hi">Maior índice do vetor.</param>
+        /// <param name="profundidade">Profundidade da chamada recursiva,</param>
+        /// <param name="sb">Stringbuilder contendo o rastreio das chamadas.</param>
+        /// <returns>Retorna a posição do elemento key, ou -1 caso
+        /// o elemento não esteja no array.</returns>
         private static int RankRecursivo(int key, int[] arr, int lo, int hi, int profundidade, StringBuilder sb)
         {
             sb.Append("".PadLeft(profundidade, ' '));
