@@ -62,6 +62,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Accumulator.cs" />
     <Compile Include="BuscaBinaria.cs" />
     <Compile Include="BuscaForcaBruta.cs" />
     <Compile Include="ConversorDecBin.cs" />
