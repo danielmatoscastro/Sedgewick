@@ -67,6 +67,7 @@
     <Compile Include="BuscaForcaBruta.cs" />
     <Compile Include="ConversorDecBin.cs" />
     <Compile Include="Counter.cs" />
+    <Compile Include="Date.cs" />
     <Compile Include="DistribuicaoBernoulli.cs" />
     <Compile Include="DistribuicaoBinomial.cs" />
     <Compile Include="EscritorDeLista.cs" />
