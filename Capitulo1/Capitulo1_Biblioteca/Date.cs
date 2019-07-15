@@ -7,8 +7,19 @@ namespace Capitulo1_Biblioteca
     /// </summary>
     public class Date : IComparable
     {
+        /// <summary>
+        /// Dia.
+        /// </summary>
         protected int day;
+        
+        /// <summary>
+        /// Mês.
+        /// </summary>
         protected int month;
+        
+        /// <summary>
+        /// Ano.
+        /// </summary>
         protected int year;
 
         /// <summary>
@@ -88,7 +99,7 @@ namespace Capitulo1_Biblioteca
         /// <summary>
         /// Retorna um código hash referente a data representada.
         /// </summary>
-        /// <returns><Hash da data.</returns>
+        /// <returns>Hash da data.</returns>
         public override int GetHashCode()
         {
             string data = day.ToString() + month.ToString() + year.ToString();
