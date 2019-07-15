@@ -132,5 +132,65 @@ namespace Capitulo1_Biblioteca
             return (year % 4 == 0 && year % 100 != 0) ||
                    (year % 4 == 0 && year % 100 == 0 && year % 400 == 0);
         }
+
+        /// <summary>
+        /// Retorna uma string dizendo o dia da semana representado (em inglês).
+        /// Supõe que a data é maior ou igual que 01/01/2001.
+        /// </summary>
+        /// <returns>Dia da semana.</returns>
+        public string DayOfTheWeek()
+        {
+            string[] diasDaSemana = new string[]
+                {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+
+            int totalDias = DiasDesde01012001();
+
+            return diasDaSemana[totalDias % 7];
+
+        }
+
+        /// <summary>
+        /// Calcula o número de dias desde 01/01/2001.
+        /// </summary>
+        /// <returns>Dias desde 01/01/2001.</returns>
+        private int DiasDesde01012001()
+        {
+            int totalDias = 0;
+
+            for (int ano = 2001; ano < year; ano++)
+            {
+                if (EhAnoBissexto(ano))
+                {
+                    totalDias += 366;
+                }
+                else
+                {
+                    totalDias += 365;
+                }
+            }
+
+            for (int mes = 1; mes < month; mes++)
+            {
+                if (MesTem30Dias(mes))
+                {
+                    totalDias += 30;
+                }else if (MesTem31Dias(mes))
+                {
+                    totalDias += 31;
+                }else if (EhAnoBissexto(year))
+                {
+                    totalDias += 29;
+                }
+                else
+                {
+                    totalDias += 28;
+                }
+            }
+
+            totalDias += day;
+
+            return totalDias;
+        }
+        
     }
 }
