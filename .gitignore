@@ -356,6 +356,7 @@ doubles.txt
 Capitulo1/Capitulo1_Biblioteca/MatplotlibCS/
 .idea
 .vs
+*.png
 
 # Backup folder for Package Reference Convert tool in Visual Studio 2017
 MigrationBackup/
