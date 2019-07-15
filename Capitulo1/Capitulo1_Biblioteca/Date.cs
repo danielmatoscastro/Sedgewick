@@ -7,9 +7,9 @@ namespace Capitulo1_Biblioteca
     /// </summary>
     public class Date : IComparable
     {
-        private int day;
-        private int month;
-        private int year;
+        protected int day;
+        protected int month;
+        protected int year;
 
         /// <summary>
         /// Dia.
