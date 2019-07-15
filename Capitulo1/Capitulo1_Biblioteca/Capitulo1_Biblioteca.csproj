@@ -89,6 +89,7 @@
     <Compile Include="SomaDeDadosAproximada.cs" />
     <Compile Include="SomaDeDadosExata.cs" />
     <Compile Include="Vetor.cs" />
+    <Compile Include="VisualAccumulator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
