@@ -45,5 +45,27 @@ namespace Capitulo1_Biblioteca
                 return elementos.ToArray();
             }
         }
+
+        /// <summary>
+        /// Lê uma lista de inteiros do arquivo.
+        /// </summary>
+        /// <returns>Um array contendo os elementos lidos.</returns>
+        public int[] LerInts()
+        {
+            using (StreamReader sr = new StreamReader(this.nomeDoArquivo))
+            {
+                string conteudo = sr.ReadToEnd().Trim();
+                string[] elementosStr = conteudo.Split(new[] {' ', '\n'}, 
+                    StringSplitOptions.RemoveEmptyEntries);
+                
+                int[] elementos = new int[elementosStr.Length];
+                for (int i = 0; i < elementosStr.Length; i++)
+                {
+                    elementos[i] = Convert.ToInt32(elementosStr[i]);
+                }
+
+                return elementos;
+            }
+        }
     }
 }
