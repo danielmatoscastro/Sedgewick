@@ -90,6 +90,7 @@
     <Compile Include="SomaDeDados.cs" />
     <Compile Include="SomaDeDadosAproximada.cs" />
     <Compile Include="SomaDeDadosExata.cs" />
+    <Compile Include="Transaction.cs" />
     <Compile Include="Vetor.cs" />
     <Compile Include="VisualAccumulator.cs" />
   </ItemGroup>
