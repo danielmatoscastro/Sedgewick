@@ -60,7 +60,7 @@ namespace Capitulo1_Biblioteca
         {
             if (numeradorResultado > Int32.MaxValue || denominadorResultado > Int32.MaxValue)
             {
-                throw new OverflowException("Overflow ao realizar a adição.");
+                throw new OverflowException("Overflow ao realizar a operação.");
             }
         }
 
