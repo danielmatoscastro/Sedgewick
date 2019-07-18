@@ -7,7 +7,8 @@ namespace Capitulo1_Biblioteca
     /// </summary>
     public class Accumulator
     {
-        private double total;
+        private double s;
+        private double m;
         private int N;
 
         /// <summary>
@@ -15,7 +16,23 @@ namespace Capitulo1_Biblioteca
         /// </summary>
         public double Mean
         {
-            get { return total / N; }
+            get { return m; }
+        }
+
+        /// <summary>
+        /// Variância dos valores acumulados.
+        /// </summary>
+        public double Var
+        {
+            get { return s / (N - 1); }
+        }
+
+        /// <summary>
+        /// Desvio padrão dos valores acumulados.
+        /// </summary>
+        public double Stddev
+        {
+            get { return Math.Sqrt(Var); }
         }
         
         /// <summary>
@@ -23,7 +40,8 @@ namespace Capitulo1_Biblioteca
         /// </summary>
         public Accumulator()
         {
-            total = 0;
+            s = 0;
+            m = 0;
             N = 0;
         }
 
@@ -33,8 +51,9 @@ namespace Capitulo1_Biblioteca
         /// <param name="val">Valor a ser adicionado.</param>
         public void addDataValue(double val)
         {
-            total += val;
             N++;
+            s = s + 1.0 * (N - 1) / N * (val - m) * (val - m);
+            m = m + (val - m) / N;
         }
 
         /// <summary>
