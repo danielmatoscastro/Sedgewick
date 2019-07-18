@@ -1,4 +1,5 @@
 using System;
+using System.Text;
 
 namespace Capitulo1_Biblioteca
 {
@@ -49,7 +50,7 @@ namespace Capitulo1_Biblioteca
         /// Adiciona um valor ao total acumulado.
         /// </summary>
         /// <param name="val">Valor a ser adicionado.</param>
-        public void addDataValue(double val)
+        public void AddDataValue(double val)
         {
             N++;
             s = s + 1.0 * (N - 1) / N * (val - m) * (val - m);
@@ -62,7 +63,13 @@ namespace Capitulo1_Biblioteca
         /// <returns>String que representa o acumulador.</returns>
         public override string ToString()
         {
-            return String.Format("Mean ({0} values): {1}", N, Mean);
+            StringBuilder sb = new StringBuilder();
+            sb.Append(String.Format("{0} valores\n", N));
+            sb.Append(String.Format("Média: {0}\n", Mean));
+            sb.Append(String.Format("Variância: {0}\n", Var));
+            sb.Append(String.Format("Desvio padrão: {0}\n", Stddev));
+            
+            return sb.ToString();
         }
     }
 }

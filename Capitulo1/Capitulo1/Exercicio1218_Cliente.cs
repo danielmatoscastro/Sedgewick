@@ -24,7 +24,7 @@ namespace Capitulo1_Cliente
 
                 for (int i = 0; i < N; i++)
                 {
-                    accumulator.addDataValue(random.Next(linf, lsup + 1));
+                    accumulator.AddDataValue(random.Next(linf, lsup + 1));
                 }
 
                 Console.WriteLine("Resultado:");
