@@ -31,6 +31,24 @@ namespace Capitulo1_Biblioteca
 
         /// <summary>
         /// Calcula o MDC de dois números usando o Algoritmo de Euclides.
+        /// </summary>
+        /// <param name="p">Primeiro número</param>
+        /// <param name="q">Segundo número</param>
+        /// <returns>MDC de p e q</returns>
+        public static long Mdc(long p, long q)
+        {
+            if (q == 0)
+            {
+                return p;
+            }
+
+            long r = p % q;
+
+            return Mdc(q, r);
+        }
+        
+        /// <summary>
+        /// Calcula o MDC de dois números usando o Algoritmo de Euclides.
         /// Mantém um rastreio das chamadas recursivas.
         /// </summary>
         /// <param name="p">Primeiro número</param>
