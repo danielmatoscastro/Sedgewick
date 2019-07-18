@@ -85,7 +85,9 @@
     <Compile Include="MaximoDivisorComum.cs" />
     <Compile Include="Point2DBook.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RacionalRobusto.cs" />
     <Compile Include="RandomConnections.cs" />
+    <Compile Include="Racional.cs" />
     <Compile Include="SmartDate.cs" />
     <Compile Include="SomaDeDados.cs" />
     <Compile Include="SomaDeDadosAproximada.cs" />
