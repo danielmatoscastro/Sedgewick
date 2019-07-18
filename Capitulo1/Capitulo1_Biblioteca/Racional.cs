@@ -7,7 +7,14 @@ namespace Capitulo1_Biblioteca
     /// </summary>
     public class Racional
     {
+        /// <summary>
+        /// Numerador da fração.
+        /// </summary>
         private long numerador;
+        
+        /// <summary>
+        /// Denominador da fração.
+        /// </summary>
         private long denominador;
 
         /// <summary>
@@ -15,9 +22,9 @@ namespace Capitulo1_Biblioteca
         /// </summary>
         /// <param name="numerador">Numerador da fração.</param>
         /// <param name="denominador">Denominador da fração.</param>
-        public Racional(long numerador, long denominador)
+        public Racional(int numerador, int denominador)
         {
-            long mdc = MaximoDivisorComum.Mdc(numerador, denominador);
+            int mdc = MaximoDivisorComum.Mdc(numerador, denominador);
             numerador /= mdc;
             denominador /= mdc;
             
@@ -35,7 +42,7 @@ namespace Capitulo1_Biblioteca
             long denominadorResultado = this.denominador * b.denominador;
             long numeradorResultado = (b.denominador * this.numerador) + (this.denominador * b.numerador);
             
-            return new Racional(numeradorResultado, denominadorResultado);
+            return new Racional((int) numeradorResultado, (int) denominadorResultado);
         }
 
         /// <summary>
@@ -48,7 +55,7 @@ namespace Capitulo1_Biblioteca
             long denominadorResultado = this.denominador * b.denominador;
             long numeradorResultado = (b.denominador * this.numerador) - (this.denominador * b.numerador);
             
-            return new Racional(numeradorResultado, denominadorResultado);
+            return new Racional((int) numeradorResultado, (int) denominadorResultado);
         }
 
         /// <summary>
@@ -61,7 +68,7 @@ namespace Capitulo1_Biblioteca
             long denominadorResultado = this.denominador * b.denominador;
             long numeradorResultado = this.numerador * b.numerador;
             
-            return new Racional(numeradorResultado, denominadorResultado);
+            return new Racional((int) numeradorResultado, (int) denominadorResultado);
         }
 
         /// <summary>
@@ -74,7 +81,7 @@ namespace Capitulo1_Biblioteca
             long denominadorResultado = this.denominador * b.numerador;
             long numeradorResultado = this.numerador * b.denominador;
             
-            return new Racional(numeradorResultado, denominadorResultado);
+            return new Racional((int) numeradorResultado, (int) denominadorResultado);
         }
 
         /// <summary>

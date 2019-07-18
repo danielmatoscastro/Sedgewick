@@ -37,9 +37,9 @@ namespace Capitulo1_Cliente
         private static Racional LerRacional()
         {
             Console.Write("Digite o numerador: ");
-            long numerador = Convert.ToInt64(Console.ReadLine());
+            int numerador = Convert.ToInt32(Console.ReadLine());
             Console.Write("Digite o denominador: ");
-            long denominador = Convert.ToInt64(Console.ReadLine());
+            int denominador = Convert.ToInt32(Console.ReadLine());
             
             return new Racional(numerador, denominador);
         }
