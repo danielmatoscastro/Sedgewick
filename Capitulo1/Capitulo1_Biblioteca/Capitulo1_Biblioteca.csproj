@@ -83,6 +83,8 @@
     <Compile Include="Logaritmo.cs" />
     <Compile Include="Matrix.cs" />
     <Compile Include="MaximoDivisorComum.cs" />
+    <Compile Include="NodoListaEncadeada.cs" />
+    <Compile Include="Pilha.cs" />
     <Compile Include="PilhaDeStringsTamanhoFixo.cs" />
     <Compile Include="Point2DBook.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
