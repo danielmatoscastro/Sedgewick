@@ -109,13 +109,19 @@ namespace Capitulo1_Biblioteca
             /// <returns>True se o iterador foi para uma posição válida.</returns>
             public bool MoveNext()
             {
-                if (!estaNoFim)
+                if (estaNoInicio)
+                {
+                    nodoAtual = primeiro;
+                    estaNoInicio = false;
+                }
+                else if (!estaNoFim)
                 {
                     nodoAtual = nodoAtual.proximo;
-                    if (nodoAtual == null)
-                    {
-                        estaNoFim = false;
-                    }
+                }
+                
+                if (nodoAtual == null)
+                {
+                    estaNoFim = true;
                 }
 
                 return !estaNoFim;
