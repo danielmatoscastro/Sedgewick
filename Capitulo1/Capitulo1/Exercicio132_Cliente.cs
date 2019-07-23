@@ -30,7 +30,7 @@ namespace Capitulo1_Cliente
                     if (!"-".Equals(entrada))
                     {
                         pilha.Push(entrada);
-                    }else if (!pilha.estaVazia)
+                    }else if (!pilha.EstaVazia)
                     {
                         Console.Write("{0} ", pilha.Pop());
                     }

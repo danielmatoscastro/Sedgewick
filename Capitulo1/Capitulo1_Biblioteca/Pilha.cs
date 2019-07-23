@@ -13,10 +13,19 @@ namespace Capitulo1_Biblioteca
         private NodoListaEncadeada<Item> primeiro;
         private int N;
 
+
+        /// <summary>
+        /// Retorna o topo da pilha (sem removê-lo).
+        /// </summary>
+        public Item Topo
+        {
+            get { return primeiro.item; }
+        }
+        
         /// <summary>
         /// Indica se a pilha está vazia.
         /// </summary>
-        public bool estaVazia
+        public bool EstaVazia
         {
             get { return primeiro == null; }
         }

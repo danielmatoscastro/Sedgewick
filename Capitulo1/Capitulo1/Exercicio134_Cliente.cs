@@ -54,7 +54,7 @@ namespace Capitulo1_Cliente
                 }
                 else
                 {
-                    if (pilha.estaVazia)
+                    if (pilha.EstaVazia)
                     {
                         return false;
                     }
@@ -68,7 +68,7 @@ namespace Capitulo1_Cliente
                 }
             }
 
-            return pilha.estaVazia;
+            return pilha.EstaVazia;
         }
     }
 }
